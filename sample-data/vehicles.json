@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "PlateNo": "KCD 099V (Bus No. 21)",
+    "Model": "ISUZU",
+    "Color": "YELLOW",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 3,
+    "Provider": "Soul Relaxer"
+  },
+  {
+    "id": 2,
+    "PlateNo": "KBX 304D (Bus No. 20)",
+    "Model": "ISUZU",
+    "Color": "YELLOW",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 3,
+    "Provider": "Soul Relaxer"
+  },
+  {
+    "id": 3,
+    "PlateNo": "KCT 431T (Van No. 20A)",
+    "Model": "ISUZU",
+    "Color": "YELLOW",
+    "Capacity": "16",
+    "TrackerId": "",
+    "ProviderId": 3,
+    "Provider": "Soul Relaxer"
+  },
+  {
+    "id": 4,
+    "PlateNo": "KBW 642H (Bus No.22)",
+    "Model": "ISUZU",
+    "Color": "YELLOW",
+    "Capacity": "29",
+    "TrackerId": "",
+    "ProviderId": 7,
+    "Provider": "Bartum"
+  },
+  {
+    "id": 5,
+    "PlateNo": "KBV 729T (Bus No. 23)",
+    "Model": "ISUZU",
+    "Color": "YELLOW",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 7,
+    "Provider": "Bartum"
+  },
+  {
+    "id": 6,
+    "PlateNo": "KBT 364S (Bus No. 22A)",
+    "Model": "NISSAN",
+    "Color": "YELLOW",
+    "Capacity": "14",
+    "TrackerId": "",
+    "ProviderId": 7,
+    "Provider": "Bartum"
+  },
+  {
+    "id": 7,
+    "PlateNo": "KCU 026C (Bus No. 15A)",
+    "Model": "HINO 500",
+    "Color": "YELLOW",
+    "Capacity": "51",
+    "TrackerId": "",
+    "ProviderId": 8,
+    "Provider": "Joshua Generation Transporters"
+  },
+  {
+    "id": 8,
+    "PlateNo": "KBV 103A (Bus No. 15)",
+    "Model": "HINO 500",
+    "Color": "YELLOW",
+    "Capacity": "51",
+    "TrackerId": "",
+    "ProviderId": 8,
+    "Provider": "Joshua Generation Transporters"
+  },
+  {
+    "id": 9,
+    "PlateNo": "KBN 075V (Bus No. 13)",
+    "Model": "SWARAJ",
+    "Color": "YELLOW",
+    "Capacity": "51",
+    "TrackerId": "",
+    "ProviderId": 8,
+    "Provider": "Joshua Generation Transporters"
+  },
+  {
+    "id": 10,
+    "PlateNo": "KBM 170H (Bus No. 12)",
+    "Model": "SWARAJ",
+    "Color": "YELLOW",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 8,
+    "Provider": "Joshua Generation Transporters"
+  },
+  {
+    "id": 11,
+    "PlateNo": "KCG 415G (Bus No. 12A)",
+    "Model": "ISUZU POLO",
+    "Color": "YELLOW",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 8,
+    "Provider": "Joshua Generation Transporters"
+  },
+  {
+    "id": 13,
+    "PlateNo": "KCG 775N (Van No. 11)",
+    "Model": "TOYOTA HIACE",
+    "Color": "YELLOW",
+    "Capacity": "15",
+    "TrackerId": "",
+    "ProviderId": 8,
+    "Provider": "Joshua Generation Transporters"
+  },
+  {
+    "id": 14,
+    "PlateNo": "KCG 790J (Bus No. 24)",
+    "Model": "HINO 500",
+    "Color": "Yellow",
+    "Capacity": "53",
+    "TrackerId": "",
+    "ProviderId": 9,
+    "Provider": "Afrizone Logistics"
+  },
+  {
+    "id": 17,
+    "PlateNo": "KCG 791M (Bus No. 8)",
+    "Model": "Isuzu FRR",
+    "Color": "Yellow",
+    "Capacity": "51",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 18,
+    "PlateNo": "KCG 086V (Bus No. 4)",
+    "Model": "Isuzu Polo",
+    "Color": "Yellow",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 19,
+    "PlateNo": "KCG 417G(Bus No.18",
+    "Model": "Isuzu Polo",
+    "Color": "Yellow",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 20,
+    "PlateNo": "KBV 163A (Bus No.3)",
+    "Model": "Isuzu NQR",
+    "Color": "Yellow",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 21,
+    "PlateNo": "KCP 445U (Bus No.10)",
+    "Model": "Isuzu Polo",
+    "Color": "Yellow",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 22,
+    "PlateNo": "KCH 669N (Bus No. 18)",
+    "Model": "Isuzu Polo",
+    "Color": "Yellow",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 23,
+    "PlateNo": "KBP 274A (Bus No. 6)",
+    "Model": "Swaraj T3500",
+    "Color": "Yellow",
+    "Capacity": "40",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 25,
+    "PlateNo": "KCP 987N (Bus No. 26A)",
+    "Model": "Nissan Caravan",
+    "Color": "Yellow",
+    "Capacity": "14",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 26,
+    "PlateNo": "KBX 329M (Bus No. 1)",
+    "Model": "Toyota Hiace",
+    "Color": "Yellow",
+    "Capacity": "14",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 27,
+    "PlateNo": "KBA 281K  (Bus No. 2)",
+    "Model": "Nissan Caravan",
+    "Color": "Yellow",
+    "Capacity": "14",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 28,
+    "PlateNo": "KAU 443P",
+    "Model": "Nissan Caravan",
+    "Color": "Yellow",
+    "Capacity": "14",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 29,
+    "PlateNo": "KAV 665M (Bus No. 7)",
+    "Model": "Nissan UD",
+    "Color": "Yellow",
+    "Capacity": "29",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 33,
+    "PlateNo": "KCA 045Q (Bus No. 5)",
+    "Model": "Hino 350",
+    "Color": "Yellow",
+    "Capacity": "51",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 34,
+    "PlateNo": "KBS 547K (Bus No. 27)",
+    "Model": "Isuzu NQR",
+    "Color": "Yellow",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 35,
+    "PlateNo": "KBP 273A (Bus No. 9)",
+    "Model": "Swaraj T3500",
+    "Color": "Yellow",
+    "Capacity": "40",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 37,
+    "PlateNo": "KCR 918D",
+    "Model": "Nissan Caravan",
+    "Color": "Yellow",
+    "Capacity": "14",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 38,
+    "PlateNo": "KBB 191M",
+    "Model": "Swaraj T3500",
+    "Color": "Yellow",
+    "Capacity": "40",
+    "TrackerId": "",
+    "ProviderId": null,
+    "Provider": null
+  },
+  {
+    "id": 39,
+    "PlateNo": "KBD 314F (Bus No. 10A)",
+    "Model": "NISSAN",
+    "Color": "Yellow",
+    "Capacity": "7",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 40,
+    "PlateNo": "KCG 045Q (Bus No. 5)",
+    "Model": "Hino 350",
+    "Color": "Yellow",
+    "Capacity": "51",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 41,
+    "PlateNo": "KAS 637M (Bus No. 6A)",
+    "Model": "ISUZU",
+    "Color": "Yellow",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 43,
+    "PlateNo": "KCR 043A (Bus No. 14A)",
+    "Model": "Hino 300",
+    "Color": "Yellow",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 8,
+    "Provider": "Joshua Generation Transporters"
+  },
+  {
+    "id": 44,
+    "PlateNo": "KBV 433S (Bus No. 16)",
+    "Model": "Isuzu Max",
+    "Color": "Yellow",
+    "Capacity": "37",
+    "TrackerId": "",
+    "ProviderId": 8,
+    "Provider": "Joshua Generation Transporters"
+  },
+  {
+    "id": 46,
+    "PlateNo": "KBR 302K (Bus No. 14)",
+    "Model": "Swaraj",
+    "Color": "Yellow",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 8,
+    "Provider": "Joshua Generation Transporters"
+  },
+  {
+    "id": 48,
+    "PlateNo": "KBA 340A (Bus No. 13A)",
+    "Model": "Swaraj",
+    "Color": "YELLOW",
+    "Capacity": "33",
+    "TrackerId": "",
+    "ProviderId": 10,
+    "Provider": "Delights Adventures Limited"
+  },
+  {
+    "id": 49,
+    "PlateNo": "Test Bus",
+    "Model": "TOYOTA",
+    "Color": "green",
+    "Capacity": "60",
+    "TrackerId": null,
+    "ProviderId": 4,
+    "Provider": "Test"
+  },
+  {
+    "id": 50,
+    "PlateNo": "KCX 047X",
+    "Model": "HINO 300",
+    "Color": "YELLOW",
+    "Capacity": "29",
+    "TrackerId": null,
+    "ProviderId": 8,
+    "Provider": "Joshua Generation Transporters"
+  }
+]

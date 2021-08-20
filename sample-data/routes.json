@@ -1,0 +1,4572 @@
+[
+  {
+    "id": 1,
+    "Name": "ROUTE A",
+    "Cost": "",
+    "created_at": null,
+    "updated_at": null,
+    "stations": [
+      {
+        "id": 1,
+        "RouteId": 1,
+        "Name": "AP",
+        "created_at": null,
+        "updated_at": "2020-06-26 19:09:49",
+        "Cost": 110,
+        "Latitude": "1.2032527589158526",
+        "Longitude": "35.283105439672845"
+      },
+      {
+        "id": 2,
+        "RouteId": 1,
+        "Name": "AKILLA 1",
+        "created_at": null,
+        "updated_at": "2020-03-03 11:26:05",
+        "Cost": 110,
+        "Latitude": "-1.312313045166287",
+        "Longitude": "36.81182422698365"
+      },
+      {
+        "id": 3,
+        "RouteId": 1,
+        "Name": "MADARAKA",
+        "created_at": null,
+        "updated_at": "2020-02-17 12:52:12",
+        "Cost": 110,
+        "Latitude": "-1.3102017330170312",
+        "Longitude": "36.81779518255615"
+      },
+      {
+        "id": 4,
+        "RouteId": 1,
+        "Name": "HIMA",
+        "created_at": null,
+        "updated_at": "2020-02-17 12:51:51",
+        "Cost": 110,
+        "Latitude": "-1.3095152669359758",
+        "Longitude": "36.818353082031244"
+      },
+      {
+        "id": 133,
+        "RouteId": 1,
+        "Name": "TULIA",
+        "created_at": "2019-10-01 11:23:13",
+        "updated_at": "2021-05-20 11:38:48",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 134,
+        "RouteId": 1,
+        "Name": "NHC",
+        "created_at": "2019-10-01 11:23:14",
+        "updated_at": "2021-06-09 11:01:39",
+        "Cost": "50",
+        "Latitude": "-1.3097009931832402",
+        "Longitude": "36.81946095781096"
+      },
+      {
+        "id": 281,
+        "RouteId": 1,
+        "Name": "FUNGUO\/AP",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-01-31 16:04:06",
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 305,
+        "RouteId": 1,
+        "Name": "CENTRAL",
+        "created_at": "2020-02-04 10:31:31",
+        "updated_at": "2021-06-09 11:03:15",
+        "Cost": "50",
+        "Latitude": "-1.3073246022248857",
+        "Longitude": "36.815856093779004"
+      },
+      {
+        "id": 386,
+        "RouteId": 1,
+        "Name": "UFUNGUO\/AP",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 389,
+        "RouteId": 1,
+        "Name": "NHC MADARAKA",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 394,
+        "RouteId": 1,
+        "Name": "SIWAKA\/HIMA",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 412,
+        "RouteId": 1,
+        "Name": "CAPITAL",
+        "created_at": "2021-05-20 11:33:26",
+        "updated_at": "2021-06-09 11:05:23",
+        "Cost": "50",
+        "Latitude": "-1.306816281087398",
+        "Longitude": "36.813672157533276"
+      },
+      {
+        "id": 413,
+        "RouteId": 1,
+        "Name": "TULIA",
+        "created_at": "2021-05-20 11:33:27",
+        "updated_at": "2021-05-20 11:34:30",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 414,
+        "RouteId": 1,
+        "Name": "CENTRAL",
+        "created_at": "2021-05-20 11:33:29",
+        "updated_at": "2021-06-09 11:06:24",
+        "Cost": "50",
+        "Latitude": "-1.3073246022248857",
+        "Longitude": "36.815856093779004"
+      },
+      {
+        "id": 415,
+        "RouteId": 1,
+        "Name": "NEEMA",
+        "created_at": "2021-05-20 11:54:13",
+        "updated_at": "2021-06-09 11:10:16",
+        "Cost": "50",
+        "Latitude": "-1.3082527547058858",
+        "Longitude": "36.81253386441803"
+      },
+      {
+        "id": 418,
+        "RouteId": 1,
+        "Name": "ROYAL",
+        "created_at": "2021-05-20 13:45:52",
+        "updated_at": "2021-06-09 11:28:40",
+        "Cost": "50",
+        "Latitude": "-1.305782604332191",
+        "Longitude": "36.815595771163935"
+      },
+      {
+        "id": 419,
+        "RouteId": 1,
+        "Name": "UPENDO",
+        "created_at": "2021-05-20 13:46:36",
+        "updated_at": "2021-06-09 11:32:37",
+        "Cost": "50",
+        "Latitude": "-1.305694114418665",
+        "Longitude": "36.81626632341766"
+      },
+      {
+        "id": 440,
+        "RouteId": 1,
+        "Name": "TEMPORARY",
+        "created_at": "2021-05-28 15:53:49",
+        "updated_at": "2021-05-28 15:54:18",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 457,
+        "RouteId": 1,
+        "Name": "FOUNDATION",
+        "created_at": "2021-06-09 11:37:32",
+        "updated_at": "2021-06-09 11:39:54",
+        "Cost": "50",
+        "Latitude": "-1.3074869646017186",
+        "Longitude": "36.81691033834532"
+      },
+      {
+        "id": 458,
+        "RouteId": 1,
+        "Name": "RAMSEY",
+        "created_at": "2021-06-09 11:41:19",
+        "updated_at": "2021-06-09 11:42:54",
+        "Cost": "50",
+        "Latitude": "-1.3074923276230361",
+        "Longitude": "36.817634534779344"
+      },
+      {
+        "id": 459,
+        "RouteId": 1,
+        "Name": "ORANGE COURT",
+        "created_at": "2021-06-09 11:48:30",
+        "updated_at": "2021-06-09 11:48:43",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 460,
+        "RouteId": 1,
+        "Name": "USTAWI COURT",
+        "created_at": "2021-06-09 11:52:38",
+        "updated_at": "2021-06-09 11:53:58",
+        "Cost": "50",
+        "Latitude": "-1.3069399363665224",
+        "Longitude": "36.813369822445665"
+      },
+      {
+        "id": 461,
+        "RouteId": 1,
+        "Name": "WECHE",
+        "created_at": "2021-06-09 11:56:56",
+        "updated_at": "2021-06-09 11:57:10",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 462,
+        "RouteId": 1,
+        "Name": "0LIVE",
+        "created_at": "2021-06-09 12:01:57",
+        "updated_at": "2021-06-09 12:02:11",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "Name": "ROUTE B",
+    "Cost": "",
+    "created_at": null,
+    "updated_at": null,
+    "stations": [
+      {
+        "id": 5,
+        "RouteId": 2,
+        "Name": "CUSTOMS LANGATA",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:48:23",
+        "Cost": 110,
+        "Latitude": "-1.329446977260416",
+        "Longitude": "36.78547249999998"
+      },
+      {
+        "id": 6,
+        "RouteId": 2,
+        "Name": "BOMAS",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:50:22",
+        "Cost": 110,
+        "Latitude": "-1.3334102555241005",
+        "Longitude": "36.764121500872044"
+      },
+      {
+        "id": 7,
+        "RouteId": 2,
+        "Name": "JONATHAN NGENO",
+        "created_at": null,
+        "updated_at": "2020-03-03 14:23:46",
+        "Cost": 110,
+        "Latitude": "-1.3212093149594437",
+        "Longitude": "36.79308552209016"
+      },
+      {
+        "id": 8,
+        "RouteId": 2,
+        "Name": "DOGSECTION",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:51:29",
+        "Cost": 110,
+        "Latitude": "-1.3190866622425832",
+        "Longitude": "36.77450266319885"
+      },
+      {
+        "id": 9,
+        "RouteId": 2,
+        "Name": "KAREN C",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:52:03",
+        "Cost": 110,
+        "Latitude": "-1.343121917462033",
+        "Longitude": "36.74235013928678"
+      },
+      {
+        "id": 10,
+        "RouteId": 2,
+        "Name": "KRA LANGATA",
+        "created_at": null,
+        "updated_at": "2020-03-03 14:30:28",
+        "Cost": 110,
+        "Latitude": "-1.3311256738862842",
+        "Longitude": "36.783774953828434"
+      },
+      {
+        "id": 11,
+        "RouteId": 2,
+        "Name": "LAISER HILL",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:53:04",
+        "Cost": 110,
+        "Latitude": "0",
+        "Longitude": "0"
+      },
+      {
+        "id": 12,
+        "RouteId": 2,
+        "Name": "MALEZI",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:54:29",
+        "Cost": 110,
+        "Latitude": "-1.3221830336364906",
+        "Longitude": "36.78861563254086"
+      },
+      {
+        "id": 13,
+        "RouteId": 2,
+        "Name": "NGEI 1",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:54:56",
+        "Cost": 110,
+        "Latitude": "-1.322218628934853",
+        "Longitude": "36.78085877539366"
+      },
+      {
+        "id": 14,
+        "RouteId": 2,
+        "Name": "NHC KIBERA",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:55:43",
+        "Cost": 110,
+        "Latitude": "-1.3178224651101267",
+        "Longitude": "36.78907439912798"
+      },
+      {
+        "id": 15,
+        "RouteId": 2,
+        "Name": "ONGATA RONGAI",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:58:28",
+        "Cost": 110,
+        "Latitude": "-1.3920573398440044",
+        "Longitude": "36.7827956540367"
+      },
+      {
+        "id": 16,
+        "RouteId": 2,
+        "Name": "ONYONKA",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:58:55",
+        "Cost": 110,
+        "Latitude": "-1.3273080250504665",
+        "Longitude": "36.78553409000472"
+      },
+      {
+        "id": 17,
+        "RouteId": 2,
+        "Name": "PARK ESTATE",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:59:36",
+        "Cost": 110,
+        "Latitude": "-1.3219183627570021",
+        "Longitude": "36.78731886011886"
+      },
+      {
+        "id": 18,
+        "RouteId": 2,
+        "Name": "TRIDENT",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:59:58",
+        "Cost": 110,
+        "Latitude": "-1.3314953535871636",
+        "Longitude": "36.80279847301635"
+      },
+      {
+        "id": 19,
+        "RouteId": 2,
+        "Name": "ROYAL PARK",
+        "created_at": null,
+        "updated_at": "2021-06-09 15:00:37",
+        "Cost": 110,
+        "Latitude": "-1.3285479925600876",
+        "Longitude": "36.77812273558199"
+      },
+      {
+        "id": 20,
+        "RouteId": 2,
+        "Name": "RUBIA ESTATE LANGATA",
+        "created_at": null,
+        "updated_at": "2021-06-09 15:01:22",
+        "Cost": 110,
+        "Latitude": "-1.3262741642192324",
+        "Longitude": "36.78981993565138"
+      },
+      {
+        "id": 21,
+        "RouteId": 2,
+        "Name": "SERENE GARDENS",
+        "created_at": null,
+        "updated_at": "2021-06-09 15:01:49",
+        "Cost": 110,
+        "Latitude": "-1.3320319740632258",
+        "Longitude": "36.816411957672116"
+      },
+      {
+        "id": 22,
+        "RouteId": 2,
+        "Name": "SOUTHLANDS",
+        "created_at": null,
+        "updated_at": "2021-06-09 15:02:22",
+        "Cost": 110,
+        "Latitude": "-1.320362478945176",
+        "Longitude": "36.786884599475094"
+      },
+      {
+        "id": 23,
+        "RouteId": 2,
+        "Name": "SOUTH B",
+        "created_at": null,
+        "updated_at": "2020-03-03 14:39:10",
+        "Cost": 110,
+        "Latitude": "-1.3159678697230353",
+        "Longitude": "36.847924136492914"
+      },
+      {
+        "id": 24,
+        "RouteId": 2,
+        "Name": "OTIENDE",
+        "created_at": null,
+        "updated_at": "2021-06-09 15:03:29",
+        "Cost": 110,
+        "Latitude": "-1.323875492534806",
+        "Longitude": "36.77945781104509"
+      },
+      {
+        "id": 25,
+        "RouteId": 2,
+        "Name": "UHURU GARDENS UPPER",
+        "created_at": null,
+        "updated_at": "2021-06-09 15:04:17",
+        "Cost": 110,
+        "Latitude": "-1.3251486619629749",
+        "Longitude": "36.79279516596222"
+      },
+      {
+        "id": 26,
+        "RouteId": 2,
+        "Name": "HQ",
+        "created_at": null,
+        "updated_at": "2021-06-09 15:04:41",
+        "Cost": 110,
+        "Latitude": "-1.324290126272001",
+        "Longitude": "36.795810296295144"
+      },
+      {
+        "id": 27,
+        "RouteId": 2,
+        "Name": "WESTPARK",
+        "created_at": null,
+        "updated_at": "2021-06-09 15:05:41",
+        "Cost": 110,
+        "Latitude": "-1.3299632011410387",
+        "Longitude": "36.809668984191894"
+      },
+      {
+        "id": 28,
+        "RouteId": 2,
+        "Name": "WILSON AIRPORT",
+        "created_at": null,
+        "updated_at": "2021-06-09 15:07:35",
+        "Cost": 110,
+        "Latitude": "-1.3169566740706973",
+        "Longitude": "36.81706864285279"
+      },
+      {
+        "id": 29,
+        "RouteId": 2,
+        "Name": "PARKVIEW",
+        "created_at": null,
+        "updated_at": "2020-03-12 14:31:23",
+        "Cost": 110,
+        "Latitude": "-1.3226855327578455",
+        "Longitude": "36.79720833558196"
+      },
+      {
+        "id": 91,
+        "RouteId": 2,
+        "Name": "DAM ONE",
+        "created_at": "2019-09-18 16:36:34",
+        "updated_at": "2021-06-09 15:08:49",
+        "Cost": 110,
+        "Latitude": "-1.3219663370097747",
+        "Longitude": "36.80425047668649"
+      },
+      {
+        "id": 92,
+        "RouteId": 2,
+        "Name": "DAM TWO - NULA",
+        "created_at": "2019-09-23 10:44:52",
+        "updated_at": "2021-06-09 15:09:12",
+        "Cost": "50",
+        "Latitude": "-1.3221556925254818",
+        "Longitude": "36.79444775337298"
+      },
+      {
+        "id": 93,
+        "RouteId": 2,
+        "Name": "PHENOM",
+        "created_at": "2019-09-23 11:06:20",
+        "updated_at": "2021-06-09 15:09:35",
+        "Cost": "50",
+        "Latitude": "-1.32840365499295",
+        "Longitude": "36.81261271573031"
+      },
+      {
+        "id": 94,
+        "RouteId": 2,
+        "Name": "PHENOM-PARK",
+        "created_at": "2019-09-23 11:06:31",
+        "updated_at": "2021-06-09 15:09:57",
+        "Cost": "50",
+        "Latitude": "-1.3308813036602052",
+        "Longitude": "36.818846739881124"
+      },
+      {
+        "id": 140,
+        "RouteId": 2,
+        "Name": "NGEI 2",
+        "created_at": "2019-10-02 11:15:43",
+        "updated_at": "2021-06-09 15:10:22",
+        "Cost": "50",
+        "Latitude": "-1.330627629715151",
+        "Longitude": "36.784231798147566"
+      },
+      {
+        "id": 141,
+        "RouteId": 2,
+        "Name": "WATERSIDE",
+        "created_at": "2019-10-02 11:15:56",
+        "updated_at": "2020-03-03 14:56:12",
+        "Cost": "50",
+        "Latitude": "-1.3206038408723364",
+        "Longitude": "36.80234700066377"
+      },
+      {
+        "id": 142,
+        "RouteId": 2,
+        "Name": "MAASAI LODGE",
+        "created_at": "2019-10-02 11:16:19",
+        "updated_at": "2021-06-09 15:12:50",
+        "Cost": "50",
+        "Latitude": "-1.3920249768991297",
+        "Longitude": "36.77131393772582"
+      },
+      {
+        "id": 143,
+        "RouteId": 2,
+        "Name": "NDOVU ROAD",
+        "created_at": "2019-10-02 11:16:35",
+        "updated_at": "2021-06-09 15:13:11",
+        "Cost": "50",
+        "Latitude": "-1.367087412103846",
+        "Longitude": "36.750338643516535"
+      },
+      {
+        "id": 144,
+        "RouteId": 2,
+        "Name": "MAYOR ROAD RONGAI",
+        "created_at": "2019-10-02 11:16:53",
+        "updated_at": "2021-06-09 15:13:46",
+        "Cost": "50",
+        "Latitude": "-1.3909621999999982",
+        "Longitude": "36.76625761653292"
+      },
+      {
+        "id": 145,
+        "RouteId": 2,
+        "Name": "KISEMBE",
+        "created_at": "2019-10-02 11:17:13",
+        "updated_at": "2021-06-09 15:14:23",
+        "Cost": "50",
+        "Latitude": "-1.3705893423370739",
+        "Longitude": "36.76518170771788"
+      },
+      {
+        "id": 146,
+        "RouteId": 2,
+        "Name": "FREEDOM HEIGHTS",
+        "created_at": "2019-10-02 11:17:29",
+        "updated_at": "2021-06-09 15:15:01",
+        "Cost": "50",
+        "Latitude": "-1.3219109999999934",
+        "Longitude": "36.80232286078264"
+      },
+      {
+        "id": 147,
+        "RouteId": 2,
+        "Name": "LANGATA GARDENS",
+        "created_at": "2019-10-02 11:18:33",
+        "updated_at": "2020-03-12 14:33:56",
+        "Cost": "50",
+        "Latitude": "-1.322503959076818",
+        "Longitude": "36.775585382209016"
+      },
+      {
+        "id": 148,
+        "RouteId": 2,
+        "Name": "ST. MARYS",
+        "created_at": "2019-10-02 11:18:46",
+        "updated_at": "2020-03-03 15:01:23",
+        "Cost": "50",
+        "Latitude": "-1.3223762298939528",
+        "Longitude": "36.77454703624573"
+      },
+      {
+        "id": 149,
+        "RouteId": 2,
+        "Name": "KMA",
+        "created_at": "2019-10-02 11:19:31",
+        "updated_at": "2020-03-03 15:01:24",
+        "Cost": "50",
+        "Latitude": "-1.3221529999999833",
+        "Longitude": "36.77368899999999"
+      },
+      {
+        "id": 150,
+        "RouteId": 2,
+        "Name": "SUN VALLEY 2",
+        "created_at": "2019-10-02 11:19:47",
+        "updated_at": "2021-06-09 15:16:17",
+        "Cost": "50",
+        "Latitude": "-1.3231576000000091",
+        "Longitude": "36.77045230000001"
+      },
+      {
+        "id": 151,
+        "RouteId": 2,
+        "Name": "MOI ESTATE",
+        "created_at": "2019-10-02 11:20:08",
+        "updated_at": "2021-06-09 15:18:42",
+        "Cost": "50",
+        "Latitude": "-1.325718196401792",
+        "Longitude": "36.77884698650818"
+      },
+      {
+        "id": 152,
+        "RouteId": 2,
+        "Name": "PEACH COURT",
+        "created_at": "2019-10-02 11:20:19",
+        "updated_at": "2021-06-09 15:20:11",
+        "Cost": "50",
+        "Latitude": "-1.3236345365265476",
+        "Longitude": "36.79651707762797"
+      },
+      {
+        "id": 153,
+        "RouteId": 2,
+        "Name": "OCEAN PARK",
+        "created_at": "2019-10-02 11:22:35",
+        "updated_at": "2020-03-03 15:04:28",
+        "Cost": "50",
+        "Latitude": "-1.3226464060451306",
+        "Longitude": "36.79570034498293"
+      },
+      {
+        "id": 154,
+        "RouteId": 2,
+        "Name": "CHOICE PLACE",
+        "created_at": "2019-10-02 11:22:47",
+        "updated_at": "2020-03-03 15:05:35",
+        "Cost": "50",
+        "Latitude": "-1.322665229539573",
+        "Longitude": "36.796868453372944"
+      },
+      {
+        "id": 155,
+        "RouteId": 2,
+        "Name": "PATIO APARTMENTS",
+        "created_at": "2019-10-02 11:24:32",
+        "updated_at": "2021-06-09 15:21:33",
+        "Cost": "50",
+        "Latitude": "-1.3223407156672422",
+        "Longitude": "36.7959819769295"
+      },
+      {
+        "id": 156,
+        "RouteId": 2,
+        "Name": "ELEGANT APARTMENTS",
+        "created_at": "2019-10-02 11:24:49",
+        "updated_at": "2021-06-09 15:22:33",
+        "Cost": "50",
+        "Latitude": "-1.3227176078191005",
+        "Longitude": "36.80144463750382"
+      },
+      {
+        "id": 157,
+        "RouteId": 2,
+        "Name": "SUNBURST",
+        "created_at": "2019-10-02 11:25:02",
+        "updated_at": "2020-03-03 15:09:06",
+        "Cost": "50",
+        "Latitude": "-1.3212168683560757",
+        "Longitude": "36.79585625505179"
+      },
+      {
+        "id": 158,
+        "RouteId": 2,
+        "Name": "MARINA COURT",
+        "created_at": "2019-10-02 11:25:18",
+        "updated_at": "2021-06-09 15:24:32",
+        "Cost": "50",
+        "Latitude": "-1.3213174244511017",
+        "Longitude": "36.796098994967636"
+      },
+      {
+        "id": 159,
+        "RouteId": 2,
+        "Name": "SKYLARK APARTMENTS",
+        "created_at": "2019-10-02 11:25:36",
+        "updated_at": "2020-03-03 15:10:06",
+        "Cost": "50",
+        "Latitude": "-1.321016062992289",
+        "Longitude": "36.80124640674589"
+      },
+      {
+        "id": 160,
+        "RouteId": 2,
+        "Name": "WATERSIDE",
+        "created_at": "2019-10-02 11:25:50",
+        "updated_at": "2020-03-12 14:35:57",
+        "Cost": "50",
+        "Latitude": "-1.3205795740135768",
+        "Longitude": "36.801694202902205"
+      },
+      {
+        "id": 161,
+        "RouteId": 2,
+        "Name": "FREEDOM HEIGHTS",
+        "created_at": "2019-10-02 11:26:07",
+        "updated_at": "2021-06-09 15:26:10",
+        "Cost": "50",
+        "Latitude": "-1.3217715622471207",
+        "Longitude": "36.80207341534425"
+      },
+      {
+        "id": 162,
+        "RouteId": 2,
+        "Name": "PORTAL HOMES",
+        "created_at": "2019-10-02 11:26:20",
+        "updated_at": "2021-06-09 15:26:46",
+        "Cost": "50",
+        "Latitude": "-1.3209450405494674",
+        "Longitude": "36.7985538"
+      },
+      {
+        "id": 163,
+        "RouteId": 2,
+        "Name": "BETAVIEW",
+        "created_at": "2019-10-02 11:26:35",
+        "updated_at": "2021-06-09 15:28:29",
+        "Cost": "50",
+        "Latitude": "-1.3235502295462656",
+        "Longitude": "36.79595868220902"
+      },
+      {
+        "id": 164,
+        "RouteId": 2,
+        "Name": "WHITE HOUSE",
+        "created_at": "2019-10-02 11:27:14",
+        "updated_at": "2020-03-12 14:38:39",
+        "Cost": "50",
+        "Latitude": "-1.3183163461297303",
+        "Longitude": "36.783497919049076"
+      },
+      {
+        "id": 165,
+        "RouteId": 2,
+        "Name": "BREEZE",
+        "created_at": "2019-10-02 11:27:43",
+        "updated_at": "2020-03-12 14:39:43",
+        "Cost": "50",
+        "Latitude": "-1.3193085814979815",
+        "Longitude": "36.79218301779098"
+      },
+      {
+        "id": 166,
+        "RouteId": 2,
+        "Name": "ESTERINA",
+        "created_at": "2019-10-02 11:28:00",
+        "updated_at": "2020-03-12 14:41:54",
+        "Cost": "50",
+        "Latitude": "-1.322832744482532",
+        "Longitude": "36.79731833558195"
+      },
+      {
+        "id": 167,
+        "RouteId": 2,
+        "Name": "KRISTY ESTATE",
+        "created_at": "2019-10-02 11:28:49",
+        "updated_at": "2020-03-12 14:42:31",
+        "Cost": "50",
+        "Latitude": "-1.3211845202754977",
+        "Longitude": "36.800237617791"
+      },
+      {
+        "id": 168,
+        "RouteId": 2,
+        "Name": "BLUE URBAN",
+        "created_at": "2019-10-02 11:28:52",
+        "updated_at": "2021-06-09 15:30:50",
+        "Cost": "50",
+        "Latitude": "-1.321014066337563",
+        "Longitude": "36.79915025887813"
+      },
+      {
+        "id": 169,
+        "RouteId": 2,
+        "Name": "FOREST VIEW",
+        "created_at": "2019-10-02 11:30:10",
+        "updated_at": "2020-03-12 14:43:43",
+        "Cost": "50",
+        "Latitude": "-1.3191866110114052",
+        "Longitude": "36.77433588220903"
+      },
+      {
+        "id": 170,
+        "RouteId": 2,
+        "Name": "SUN VALLEY 1",
+        "created_at": "2019-10-02 11:32:42",
+        "updated_at": "2021-06-09 15:32:41",
+        "Cost": "50",
+        "Latitude": "-1.3252333425629896",
+        "Longitude": "36.775862645754984"
+      },
+      {
+        "id": 171,
+        "RouteId": 2,
+        "Name": "DAM VIEW APARTMENTS",
+        "created_at": "2019-10-02 11:32:54",
+        "updated_at": "2021-06-09 15:33:24",
+        "Cost": "50",
+        "Latitude": "-1.320614207482917",
+        "Longitude": "36.80012626137695"
+      },
+      {
+        "id": 172,
+        "RouteId": 2,
+        "Name": "JUPITER",
+        "created_at": "2019-10-02 11:33:49",
+        "updated_at": "2020-03-12 14:46:49",
+        "Cost": "50",
+        "Latitude": "-1.3210886551195047",
+        "Longitude": "36.80060339325408"
+      },
+      {
+        "id": 173,
+        "RouteId": 2,
+        "Name": "ABBEY APARTMENTS",
+        "created_at": "2019-10-02 11:34:36",
+        "updated_at": "2020-03-12 14:53:53",
+        "Cost": "50",
+        "Latitude": "-1.3214890401772161",
+        "Longitude": "36.79743741726607"
+      },
+      {
+        "id": 174,
+        "RouteId": 2,
+        "Name": "PORTAL  HOMES",
+        "created_at": "2019-10-02 11:35:33",
+        "updated_at": "2021-06-09 15:35:09",
+        "Cost": "50",
+        "Latitude": "-1.3209557665343055",
+        "Longitude": "36.79855514110451"
+      },
+      {
+        "id": 176,
+        "RouteId": 2,
+        "Name": "PARAGON APARTMENTS",
+        "created_at": "2019-10-02 11:36:30",
+        "updated_at": "2019-10-02 11:37:01",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 177,
+        "RouteId": 2,
+        "Name": "WESTGATE",
+        "created_at": "2019-10-02 11:37:41",
+        "updated_at": "2019-10-02 11:38:04",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 178,
+        "RouteId": 2,
+        "Name": "KIANDERI COURT",
+        "created_at": "2019-10-02 11:38:06",
+        "updated_at": "2021-06-09 15:37:45",
+        "Cost": "50",
+        "Latitude": "-1.322355433871696",
+        "Longitude": "36.797360280881506"
+      },
+      {
+        "id": 179,
+        "RouteId": 2,
+        "Name": "GLORY COURT",
+        "created_at": "2019-10-02 11:39:11",
+        "updated_at": "2021-06-09 15:39:17",
+        "Cost": "50",
+        "Latitude": "-1.3227920420871515",
+        "Longitude": "36.79792656389311"
+      },
+      {
+        "id": 181,
+        "RouteId": 2,
+        "Name": "PEACH COURT",
+        "created_at": "2019-10-02 11:41:00",
+        "updated_at": "2020-03-12 15:05:28",
+        "Cost": "50",
+        "Latitude": "-1.323622166560194",
+        "Longitude": "36.7965143"
+      },
+      {
+        "id": 182,
+        "RouteId": 2,
+        "Name": "PARK I",
+        "created_at": "2019-10-02 11:41:12",
+        "updated_at": "2021-06-09 15:40:15",
+        "Cost": "50",
+        "Latitude": "-1.3220511640966857",
+        "Longitude": "36.78721815700837"
+      },
+      {
+        "id": 183,
+        "RouteId": 2,
+        "Name": "PARK II",
+        "created_at": "2019-10-02 11:45:51",
+        "updated_at": "2021-06-09 15:40:41",
+        "Cost": "50",
+        "Latitude": "-1.3217669256082092",
+        "Longitude": "36.78746492023774"
+      },
+      {
+        "id": 184,
+        "RouteId": 2,
+        "Name": "MAASAI ESTATE",
+        "created_at": "2019-10-02 11:50:23",
+        "updated_at": "2021-06-09 15:42:06",
+        "Cost": "50",
+        "Latitude": "-1.32772218765244",
+        "Longitude": "36.7895510011366"
+      },
+      {
+        "id": 256,
+        "RouteId": 2,
+        "Name": "BEYA BEYA",
+        "created_at": "2020-01-27 16:50:41",
+        "updated_at": "2021-06-09 15:42:56",
+        "Cost": "50",
+        "Latitude": "-1.3137919777441338",
+        "Longitude": "36.81647834110451"
+      },
+      {
+        "id": 257,
+        "RouteId": 2,
+        "Name": "DAM TWO - CHOICE APARTMENTS",
+        "created_at": "2020-01-27 18:20:43",
+        "updated_at": "2020-03-12 15:10:09",
+        "Cost": "50",
+        "Latitude": "-1.3226806481320779",
+        "Longitude": "36.796875829447735"
+      },
+      {
+        "id": 259,
+        "RouteId": 2,
+        "Name": "AKIBA LANGATA",
+        "created_at": "2020-01-27 19:00:00",
+        "updated_at": "2020-03-12 15:11:28",
+        "Cost": "50",
+        "Latitude": "-1.3290931072780179",
+        "Longitude": "36.78482906197129"
+      },
+      {
+        "id": 260,
+        "RouteId": 2,
+        "Name": "NAIROBI WEST PRISON",
+        "created_at": "2020-01-27 19:19:34",
+        "updated_at": "2020-03-12 15:12:18",
+        "Cost": "50",
+        "Latitude": "-1.3163689554965854",
+        "Longitude": "36.81031265581969"
+      },
+      {
+        "id": 262,
+        "RouteId": 2,
+        "Name": "DAM TWO  - OASIS",
+        "created_at": "2020-01-27 21:40:37",
+        "updated_at": "2020-03-12 15:16:52",
+        "Cost": "50",
+        "Latitude": "-1.323017492214592",
+        "Longitude": "36.796705174205"
+      },
+      {
+        "id": 268,
+        "RouteId": 2,
+        "Name": "DAM TWO - INTER CITY",
+        "created_at": "2020-01-29 16:38:40",
+        "updated_at": "2020-03-12 15:18:04",
+        "Cost": "50",
+        "Latitude": "-1.3228458295409462",
+        "Longitude": "36.798724146627045"
+      },
+      {
+        "id": 275,
+        "RouteId": 2,
+        "Name": "DAM 2",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-03-12 15:18:46",
+        "Cost": 110,
+        "Latitude": "-1.3220628801752576",
+        "Longitude": "36.79717724299162"
+      },
+      {
+        "id": 276,
+        "RouteId": 2,
+        "Name": "DAM 2 \/JONATHAN NGENO",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-01-31 16:04:06",
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 287,
+        "RouteId": 2,
+        "Name": "KMA LANGATA",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-03-12 15:19:48",
+        "Cost": 110,
+        "Latitude": "-1.3221395925253825",
+        "Longitude": "36.77369436441802"
+      },
+      {
+        "id": 291,
+        "RouteId": 2,
+        "Name": "JAMBO",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-03-12 15:20:56",
+        "Cost": 110,
+        "Latitude": "-1.327785085111988",
+        "Longitude": "36.7871339"
+      },
+      {
+        "id": 296,
+        "RouteId": 2,
+        "Name": "PHENOM PARK\/TRIDENT",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-01-31 16:04:06",
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 299,
+        "RouteId": 2,
+        "Name": "STMARYS\/OTIENDE",
+        "created_at": "2020-01-31 16:04:07",
+        "updated_at": "2020-01-31 16:04:07",
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 301,
+        "RouteId": 2,
+        "Name": "UHURU GARDENS\/HQ",
+        "created_at": "2020-01-31 16:04:07",
+        "updated_at": "2020-01-31 16:04:07",
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 302,
+        "RouteId": 2,
+        "Name": "WEST PARK",
+        "created_at": "2020-01-31 16:04:07",
+        "updated_at": "2020-01-31 16:04:07",
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 304,
+        "RouteId": 2,
+        "Name": "BEYABEYA",
+        "created_at": "2020-02-03 20:37:15",
+        "updated_at": "2020-02-03 20:37:38",
+        "Cost": "50",
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 385,
+        "RouteId": 2,
+        "Name": "AKIBA\/CUSTOMS LANGATA",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 390,
+        "RouteId": 2,
+        "Name": "MALEZI\/JAMBO",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 392,
+        "RouteId": 2,
+        "Name": "SOVIA\/JAMBO\/SOUTH B",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 420,
+        "RouteId": 2,
+        "Name": "GOLDEN GATE",
+        "created_at": "2021-05-24 09:47:57",
+        "updated_at": "2021-05-24 09:48:19",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 421,
+        "RouteId": 2,
+        "Name": "BALOZI\/JOAKIM",
+        "created_at": "2021-05-24 09:59:30",
+        "updated_at": "2021-06-09 15:54:23",
+        "Cost": "50",
+        "Latitude": "-1.320568685261639",
+        "Longitude": "36.84820334907381"
+      },
+      {
+        "id": 422,
+        "RouteId": 2,
+        "Name": "PLAINSVIEW SB",
+        "created_at": "2021-05-24 10:03:52",
+        "updated_at": "2021-05-24 10:04:10",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 423,
+        "RouteId": 2,
+        "Name": "SERENE GARDENS",
+        "created_at": "2021-05-24 10:10:53",
+        "updated_at": "2021-05-24 10:11:15",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 424,
+        "RouteId": 2,
+        "Name": "DAM TWO - GLORY",
+        "created_at": "2021-05-24 10:57:28",
+        "updated_at": "2021-05-24 10:57:44",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 425,
+        "RouteId": 2,
+        "Name": "DAM TWO - CHOICE SUITES",
+        "created_at": "2021-05-24 11:02:05",
+        "updated_at": "2021-06-09 15:52:13",
+        "Cost": "50",
+        "Latitude": "-1.3226849869391926",
+        "Longitude": "36.79798727011412"
+      },
+      {
+        "id": 426,
+        "RouteId": 2,
+        "Name": "DAM TWO - PEACH",
+        "created_at": "2021-05-24 11:10:54",
+        "updated_at": "2021-05-24 11:11:08",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 427,
+        "RouteId": 2,
+        "Name": "NAIROBI WEST - PRISON",
+        "created_at": "2021-05-24 11:23:45",
+        "updated_at": "2021-05-24 11:24:00",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 428,
+        "RouteId": 2,
+        "Name": "SUN VALLEY 2",
+        "created_at": "2021-05-24 11:32:05",
+        "updated_at": "2021-05-24 11:32:18",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 429,
+        "RouteId": 2,
+        "Name": "DOROTHY PARK",
+        "created_at": "2021-05-24 11:54:40",
+        "updated_at": "2021-05-24 11:54:58",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 430,
+        "RouteId": 2,
+        "Name": "NGEI 2",
+        "created_at": "2021-05-24 12:08:37",
+        "updated_at": "2021-05-24 12:08:47",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 431,
+        "RouteId": 2,
+        "Name": "ST. JUDES CUEA",
+        "created_at": "2021-05-24 12:13:11",
+        "updated_at": "2021-06-09 15:49:30",
+        "Cost": "50",
+        "Latitude": "-1.3543936403503323",
+        "Longitude": "36.74743926778412"
+      },
+      {
+        "id": 441,
+        "RouteId": 2,
+        "Name": "TEMPORARY",
+        "created_at": "2021-05-28 15:54:28",
+        "updated_at": "2021-05-28 15:54:38",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "Name": "ROUTE C",
+    "Cost": "",
+    "created_at": null,
+    "updated_at": null,
+    "stations": [
+      {
+        "id": 30,
+        "RouteId": 3,
+        "Name": "BURUBURU PHS 1-5",
+        "created_at": null,
+        "updated_at": "2021-06-09 12:26:51",
+        "Cost": 110,
+        "Latitude": "-1.2872495812584503",
+        "Longitude": "36.88075512380372"
+      },
+      {
+        "id": 31,
+        "RouteId": 3,
+        "Name": "DONHOLM",
+        "created_at": null,
+        "updated_at": "2021-06-09 12:27:34",
+        "Cost": 110,
+        "Latitude": "-1.292367076461175",
+        "Longitude": "36.892245069558726"
+      },
+      {
+        "id": 32,
+        "RouteId": 3,
+        "Name": "NYAYO",
+        "created_at": null,
+        "updated_at": "2020-02-28 11:52:42",
+        "Cost": 110,
+        "Latitude": "-1.3082038770449773",
+        "Longitude": "36.90320123002471"
+      },
+      {
+        "id": 33,
+        "RouteId": 3,
+        "Name": "FEDHA",
+        "created_at": null,
+        "updated_at": "2020-02-28 12:22:07",
+        "Cost": 110,
+        "Latitude": "-1.3141135672916449",
+        "Longitude": "36.894358952114885"
+      },
+      {
+        "id": 34,
+        "RouteId": 3,
+        "Name": "IMARA DAIMA",
+        "created_at": null,
+        "updated_at": "2020-02-28 12:47:54",
+        "Cost": 110,
+        "Latitude": "-1.3236241844334307",
+        "Longitude": "36.88068363862307"
+      },
+      {
+        "id": 35,
+        "RouteId": 3,
+        "Name": "NGARA",
+        "created_at": null,
+        "updated_at": "2020-02-28 14:06:31",
+        "Cost": 110,
+        "Latitude": "-1.2733328980572898",
+        "Longitude": "36.828015298919674"
+      },
+      {
+        "id": 36,
+        "RouteId": 3,
+        "Name": "STAREHE",
+        "created_at": null,
+        "updated_at": "2020-02-28 14:07:36",
+        "Cost": 110,
+        "Latitude": "-1.2780325243646806",
+        "Longitude": "36.83555943757325"
+      },
+      {
+        "id": 37,
+        "RouteId": 3,
+        "Name": "IMARA",
+        "created_at": null,
+        "updated_at": "2021-06-09 11:49:43",
+        "Cost": 110,
+        "Latitude": "-1.3289487123093873",
+        "Longitude": "36.872483698486334"
+      },
+      {
+        "id": 38,
+        "RouteId": 3,
+        "Name": "VILLA FRANCA",
+        "created_at": null,
+        "updated_at": "2020-02-28 12:23:28",
+        "Cost": 110,
+        "Latitude": "-1.3255438845663554",
+        "Longitude": "36.88217854232789"
+      },
+      {
+        "id": 39,
+        "RouteId": 3,
+        "Name": "UTAWALA",
+        "created_at": null,
+        "updated_at": "2021-06-09 11:51:17",
+        "Cost": 110,
+        "Latitude": "-1.2722436720629329",
+        "Longitude": "36.975374280981434"
+      },
+      {
+        "id": 246,
+        "RouteId": 3,
+        "Name": "KING MILLENIUM IMARA",
+        "created_at": "2019-10-07 15:30:22",
+        "updated_at": "2020-02-28 12:36:52",
+        "Cost": "50",
+        "Latitude": "-1.3269063300841848",
+        "Longitude": "36.886734702160666"
+      },
+      {
+        "id": 248,
+        "RouteId": 3,
+        "Name": "SIMBA VILLAS",
+        "created_at": "2019-10-11 13:47:05",
+        "updated_at": "2020-02-28 14:10:33",
+        "Cost": "50",
+        "Latitude": "-1.3127580501790104",
+        "Longitude": "36.90941508175356"
+      },
+      {
+        "id": 250,
+        "RouteId": 3,
+        "Name": "BARAKA",
+        "created_at": "2019-10-15 08:51:12",
+        "updated_at": "2020-02-28 12:30:36",
+        "Cost": "50",
+        "Latitude": "-1.308714848554164",
+        "Longitude": "36.91983507724609"
+      },
+      {
+        "id": 270,
+        "RouteId": 3,
+        "Name": "AVENUE PARK 2",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-02-28 12:34:22",
+        "Cost": 110,
+        "Latitude": "-1.3112442702488716",
+        "Longitude": "36.892197106823744"
+      },
+      {
+        "id": 277,
+        "RouteId": 3,
+        "Name": "DAYTONA",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-02-28 12:38:46",
+        "Cost": 110,
+        "Latitude": "-1.324482262147583",
+        "Longitude": "36.885050274899314"
+      },
+      {
+        "id": 280,
+        "RouteId": 3,
+        "Name": "EMBAKASI\/NYAYO",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2021-06-09 11:53:29",
+        "Cost": 110,
+        "Latitude": "-1.3113531163861913",
+        "Longitude": "36.90611670531007"
+      },
+      {
+        "id": 286,
+        "RouteId": 3,
+        "Name": "KINGS WOOD",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-02-28 12:41:41",
+        "Cost": 110,
+        "Latitude": "-1.3252867097347647",
+        "Longitude": "36.884733774235556"
+      },
+      {
+        "id": 292,
+        "RouteId": 3,
+        "Name": "MASTERMINE",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-02-28 12:42:37",
+        "Cost": 110,
+        "Latitude": "-1.323587864749936",
+        "Longitude": "36.88409385637514"
+      },
+      {
+        "id": 295,
+        "RouteId": 3,
+        "Name": "MUIMARA",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-02-28 12:45:39",
+        "Cost": 110,
+        "Latitude": "-1.324292732540475",
+        "Longitude": "36.878703234393306"
+      },
+      {
+        "id": 300,
+        "RouteId": 3,
+        "Name": "TASSIA",
+        "created_at": "2020-01-31 16:04:07",
+        "updated_at": "2020-02-28 12:46:51",
+        "Cost": 110,
+        "Latitude": "-1.3083473132165195",
+        "Longitude": "36.89627306082154"
+      },
+      {
+        "id": 307,
+        "RouteId": 3,
+        "Name": "KCB FLATS - Route E",
+        "created_at": "2020-02-05 12:12:46",
+        "updated_at": "2020-02-28 13:58:31",
+        "Cost": "50",
+        "Latitude": "-1.2919301565505468",
+        "Longitude": "36.84721149499814"
+      },
+      {
+        "id": 308,
+        "RouteId": 3,
+        "Name": "EAGLE PLAINS - C",
+        "created_at": "2020-02-14 12:38:29",
+        "updated_at": "2021-06-09 12:29:35",
+        "Cost": "50",
+        "Latitude": "-1.3259388578793994",
+        "Longitude": "36.852422603149414"
+      },
+      {
+        "id": 310,
+        "RouteId": 3,
+        "Name": "WAMBCO",
+        "created_at": "2020-03-03 11:06:55",
+        "updated_at": "2021-05-28 11:42:55",
+        "Cost": "50",
+        "Latitude": "-1.3128492453939287",
+        "Longitude": "36.82760920422975"
+      },
+      {
+        "id": 372,
+        "RouteId": 3,
+        "Name": "FEDHA GATE 2",
+        "created_at": "2020-03-11 14:24:39",
+        "updated_at": "2021-06-09 11:54:13",
+        "Cost": "50",
+        "Latitude": "-1.3081244052108665",
+        "Longitude": "36.90363223911745"
+      },
+      {
+        "id": 373,
+        "RouteId": 3,
+        "Name": "KRA",
+        "created_at": "2020-03-11 14:41:26",
+        "updated_at": "2020-03-11 14:45:44",
+        "Cost": "50",
+        "Latitude": "-1.3130916608190024",
+        "Longitude": "36.82673827347184"
+      },
+      {
+        "id": 374,
+        "RouteId": 3,
+        "Name": "SIFA SPRINGS",
+        "created_at": "2020-03-11 15:06:03",
+        "updated_at": "2020-03-11 15:13:01",
+        "Cost": "50",
+        "Latitude": "-1.3232018370124334",
+        "Longitude": "36.81956222209016"
+      },
+      {
+        "id": 405,
+        "RouteId": 3,
+        "Name": "KARIAKOR",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 434,
+        "RouteId": 3,
+        "Name": "KIMATHI ESTATE",
+        "created_at": "2021-05-28 11:23:01",
+        "updated_at": "2021-06-08 14:12:20",
+        "Cost": "50",
+        "Latitude": "-1.2850065688089818",
+        "Longitude": "36.86412261852415"
+      },
+      {
+        "id": 442,
+        "RouteId": 3,
+        "Name": "TEMPORARY",
+        "created_at": "2021-05-28 15:54:51",
+        "updated_at": "2021-05-28 15:54:59",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "Name": "ROUTE D",
+    "Cost": "",
+    "created_at": null,
+    "updated_at": null,
+    "stations": [
+      {
+        "id": 41,
+        "RouteId": 4,
+        "Name": "AL MUBARAK",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:45:48",
+        "Cost": 110,
+        "Latitude": "-1.3215160999999942",
+        "Longitude": "36.82994505396727"
+      },
+      {
+        "id": 42,
+        "RouteId": 4,
+        "Name": "AMBOSELI",
+        "created_at": null,
+        "updated_at": "2021-06-09 12:19:53",
+        "Cost": 110,
+        "Latitude": "-1.3266561569463435",
+        "Longitude": "36.83773771083678"
+      },
+      {
+        "id": 43,
+        "RouteId": 4,
+        "Name": "HIGHWAY",
+        "created_at": null,
+        "updated_at": "2020-02-28 13:10:22",
+        "Cost": 110,
+        "Latitude": "-1.3264201858117175",
+        "Longitude": "36.839660854700455"
+      },
+      {
+        "id": 44,
+        "RouteId": 4,
+        "Name": "S-C GARDEN",
+        "created_at": null,
+        "updated_at": "2020-03-09 12:03:48",
+        "Cost": 110,
+        "Latitude": "-1.31331910444957",
+        "Longitude": "36.82676734418028"
+      },
+      {
+        "id": 45,
+        "RouteId": 4,
+        "Name": "KONGONI",
+        "created_at": null,
+        "updated_at": "2020-02-28 12:49:00",
+        "Cost": 110,
+        "Latitude": "-1.3130825363115228",
+        "Longitude": "36.82560291188661"
+      },
+      {
+        "id": 46,
+        "RouteId": 4,
+        "Name": "AKILA 3",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:46:59",
+        "Cost": 110,
+        "Latitude": "-1.3231646921993299",
+        "Longitude": "36.829511984655774"
+      },
+      {
+        "id": 47,
+        "RouteId": 4,
+        "Name": "BANDARI",
+        "created_at": null,
+        "updated_at": "2021-06-09 12:38:54",
+        "Cost": 110,
+        "Latitude": "-1.327525096070248",
+        "Longitude": "36.82210836085207"
+      },
+      {
+        "id": 48,
+        "RouteId": 4,
+        "Name": "FIVESTAR PHASE 1, 2",
+        "created_at": null,
+        "updated_at": "2020-02-28 14:57:52",
+        "Cost": 110,
+        "Latitude": "-1.3215044027244671",
+        "Longitude": "36.82178981725769"
+      },
+      {
+        "id": 49,
+        "RouteId": 4,
+        "Name": "LEEKS",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:47:32",
+        "Cost": 110,
+        "Latitude": "-1.3271131000000136",
+        "Longitude": "36.82913418465577"
+      },
+      {
+        "id": 50,
+        "RouteId": 4,
+        "Name": "MIDLAND",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:47:55",
+        "Cost": 110,
+        "Latitude": "-1.3272063885101375",
+        "Longitude": "36.8238498"
+      },
+      {
+        "id": 51,
+        "RouteId": 4,
+        "Name": "KPA",
+        "created_at": null,
+        "updated_at": "2021-06-09 12:23:17",
+        "Cost": 110,
+        "Latitude": "-1.2867971504857212",
+        "Longitude": "36.77702226983642"
+      },
+      {
+        "id": 52,
+        "RouteId": 4,
+        "Name": "OLIVE TREE",
+        "created_at": null,
+        "updated_at": "2020-02-28 15:01:00",
+        "Cost": 110,
+        "Latitude": "-1.3228187025899916",
+        "Longitude": "36.824985627191936"
+      },
+      {
+        "id": 53,
+        "RouteId": 4,
+        "Name": "RANGERS",
+        "created_at": null,
+        "updated_at": "2020-02-28 14:17:59",
+        "Cost": 110,
+        "Latitude": "-1.3297493421672084",
+        "Longitude": "36.828410480117796"
+      },
+      {
+        "id": 54,
+        "RouteId": 4,
+        "Name": "REAL ESTATE",
+        "created_at": null,
+        "updated_at": "2021-06-08 13:38:19",
+        "Cost": 110,
+        "Latitude": "-1.3254763010482211",
+        "Longitude": "36.84113875186766"
+      },
+      {
+        "id": 55,
+        "RouteId": 4,
+        "Name": "ARMY SOUTH C",
+        "created_at": null,
+        "updated_at": "2020-02-28 15:04:28",
+        "Cost": 110,
+        "Latitude": "-1.320410233203574",
+        "Longitude": "36.824475533868394"
+      },
+      {
+        "id": 56,
+        "RouteId": 4,
+        "Name": "RUBY FLATS",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:48:51",
+        "Cost": 110,
+        "Latitude": "-1.3248696999999698",
+        "Longitude": "36.825788984655766"
+      },
+      {
+        "id": 57,
+        "RouteId": 4,
+        "Name": "SOLEDO",
+        "created_at": null,
+        "updated_at": "2020-02-28 15:07:56",
+        "Cost": 110,
+        "Latitude": "-1.3257998701812481",
+        "Longitude": "36.82156051534423"
+      },
+      {
+        "id": 90,
+        "RouteId": 4,
+        "Name": "STOCKWELL",
+        "created_at": "2019-09-17 15:09:22",
+        "updated_at": "2020-02-28 13:20:35",
+        "Cost": 110,
+        "Latitude": "-1.3225409483958728",
+        "Longitude": "36.838762991401666"
+      },
+      {
+        "id": 95,
+        "RouteId": 4,
+        "Name": "BELLEVUE",
+        "created_at": "2019-09-25 13:10:23",
+        "updated_at": "2020-02-28 13:21:34",
+        "Cost": "50",
+        "Latitude": "-1.3196661714779612",
+        "Longitude": "36.837992221456915"
+      },
+      {
+        "id": 96,
+        "RouteId": 4,
+        "Name": "KENYA RE",
+        "created_at": "2019-09-25 13:15:38",
+        "updated_at": "2020-02-28 13:22:04",
+        "Cost": "50",
+        "Latitude": "-1.3230477508030554",
+        "Longitude": "36.837995879623406"
+      },
+      {
+        "id": 97,
+        "RouteId": 4,
+        "Name": "BETA COURT",
+        "created_at": "2019-09-25 13:22:25",
+        "updated_at": "2021-06-08 13:40:56",
+        "Cost": "50",
+        "Latitude": "-1.3271136822764487",
+        "Longitude": "36.83557523016357"
+      },
+      {
+        "id": 98,
+        "RouteId": 4,
+        "Name": "BRAVO COURT",
+        "created_at": "2019-09-25 13:29:07",
+        "updated_at": "2021-06-09 12:28:13",
+        "Cost": "50",
+        "Latitude": "-1.3263050175630624",
+        "Longitude": "36.83759364966391"
+      },
+      {
+        "id": 99,
+        "RouteId": 4,
+        "Name": "UCHUMI ROAD",
+        "created_at": "2019-09-25 15:56:10",
+        "updated_at": "2020-02-28 13:27:11",
+        "Cost": "50",
+        "Latitude": "-1.3165423513771448",
+        "Longitude": "36.82551141562197"
+      },
+      {
+        "id": 100,
+        "RouteId": 4,
+        "Name": "SOUTH C SHOPPING CENTRE",
+        "created_at": "2019-09-26 12:24:49",
+        "updated_at": "2021-06-09 14:49:41",
+        "Cost": "50",
+        "Latitude": "-1.3134224796643894",
+        "Longitude": "36.827196"
+      },
+      {
+        "id": 124,
+        "RouteId": 4,
+        "Name": "RUBY ESTATE",
+        "created_at": "2019-09-30 11:55:31",
+        "updated_at": "2020-02-28 14:26:50",
+        "Cost": "50",
+        "Latitude": "-1.3259828158985671",
+        "Longitude": "36.82545036347659"
+      },
+      {
+        "id": 125,
+        "RouteId": 4,
+        "Name": "GARDEN VIEW",
+        "created_at": "2019-09-30 12:18:18",
+        "updated_at": "2020-02-28 15:10:16",
+        "Cost": "50",
+        "Latitude": "-1.3185896624018723",
+        "Longitude": "36.82936940038603"
+      },
+      {
+        "id": 126,
+        "RouteId": 4,
+        "Name": "AKIBA UNITED",
+        "created_at": "2019-09-30 12:22:11",
+        "updated_at": "2020-02-28 14:28:44",
+        "Cost": "50",
+        "Latitude": "-1.3136199863144635",
+        "Longitude": "36.82208544694366"
+      },
+      {
+        "id": 127,
+        "RouteId": 4,
+        "Name": "PARKVIEW APPT",
+        "created_at": "2019-09-30 12:22:41",
+        "updated_at": "2020-02-28 14:31:45",
+        "Cost": "50",
+        "Latitude": "-1.3278776637539218",
+        "Longitude": "36.82605013618469"
+      },
+      {
+        "id": 128,
+        "RouteId": 4,
+        "Name": "MBUGANI",
+        "created_at": "2019-09-30 12:23:48",
+        "updated_at": "2021-06-09 14:51:12",
+        "Cost": "50",
+        "Latitude": "-1.3265512918761007",
+        "Longitude": "36.828572454769926"
+      },
+      {
+        "id": 129,
+        "RouteId": 4,
+        "Name": "OASIS ESTATE",
+        "created_at": "2019-09-30 12:24:26",
+        "updated_at": "2021-06-09 14:52:26",
+        "Cost": "50",
+        "Latitude": "-1.325611051929456",
+        "Longitude": "36.82415091904909"
+      },
+      {
+        "id": 130,
+        "RouteId": 4,
+        "Name": "ASILIA",
+        "created_at": "2019-09-30 12:24:55",
+        "updated_at": "2021-06-09 14:52:37",
+        "Cost": "50",
+        "Latitude": "-1.3264020076915133",
+        "Longitude": "36.826541399999996"
+      },
+      {
+        "id": 132,
+        "RouteId": 4,
+        "Name": "ELEGANZE GARDEN",
+        "created_at": "2019-10-01 10:56:21",
+        "updated_at": "2020-02-28 13:28:53",
+        "Cost": "50",
+        "Latitude": "-1.3253759603916795",
+        "Longitude": "36.83486607322464"
+      },
+      {
+        "id": 137,
+        "RouteId": 4,
+        "Name": "ASH GATE",
+        "created_at": "2019-10-01 12:56:22",
+        "updated_at": "2020-02-28 15:11:51",
+        "Cost": "50",
+        "Latitude": "-1.325332918239911",
+        "Longitude": "36.82004572883604"
+      },
+      {
+        "id": 138,
+        "RouteId": 4,
+        "Name": "TEPRO HOMES",
+        "created_at": "2019-10-01 12:56:46",
+        "updated_at": "2020-02-28 15:12:23",
+        "Cost": "50",
+        "Latitude": "-1.3257941442175103",
+        "Longitude": "36.820330035581954"
+      },
+      {
+        "id": 185,
+        "RouteId": 4,
+        "Name": "SULTON NEXTGEN PARK",
+        "created_at": "2019-10-03 04:48:00",
+        "updated_at": "2020-02-28 13:31:37",
+        "Cost": "50",
+        "Latitude": "-1.3257712650754823",
+        "Longitude": "36.841793210867294"
+      },
+      {
+        "id": 186,
+        "RouteId": 4,
+        "Name": "ST. JAMES",
+        "created_at": "2019-10-03 10:17:08",
+        "updated_at": "2020-02-28 13:32:20",
+        "Cost": "50",
+        "Latitude": "-1.3235349005743493",
+        "Longitude": "36.84358492648924"
+      },
+      {
+        "id": 187,
+        "RouteId": 4,
+        "Name": "BANDARI APARTMENTS",
+        "created_at": "2019-10-03 10:29:36",
+        "updated_at": "2020-02-28 13:33:04",
+        "Cost": "50",
+        "Latitude": "-1.3261091329180543",
+        "Longitude": "36.840280444982895"
+      },
+      {
+        "id": 199,
+        "RouteId": 4,
+        "Name": "MUGOYA 3",
+        "created_at": "2019-10-03 13:06:57",
+        "updated_at": "2021-06-09 14:53:10",
+        "Cost": "50",
+        "Latitude": "-1.3191507000000025",
+        "Longitude": "36.8246704539673"
+      },
+      {
+        "id": 200,
+        "RouteId": 4,
+        "Name": "LEEBARN ESTATE",
+        "created_at": "2019-10-03 13:40:41",
+        "updated_at": "2021-06-09 14:53:24",
+        "Cost": "50",
+        "Latitude": "-1.3283446000000103",
+        "Longitude": "36.83036518465575"
+      },
+      {
+        "id": 201,
+        "RouteId": 4,
+        "Name": "GREEN 2 ESTATE",
+        "created_at": "2019-10-03 13:41:35",
+        "updated_at": "2021-06-09 14:53:40",
+        "Cost": "50",
+        "Latitude": "-1.326377100000004",
+        "Longitude": "36.83045426931152"
+      },
+      {
+        "id": 202,
+        "RouteId": 4,
+        "Name": "AMANA ESTATE",
+        "created_at": "2019-10-03 13:42:18",
+        "updated_at": "2021-06-09 14:53:59",
+        "Cost": "50",
+        "Latitude": "-1.3269138153505364",
+        "Longitude": "36.827813099999986"
+      },
+      {
+        "id": 203,
+        "RouteId": 4,
+        "Name": "PARK VIEW APARTMENT",
+        "created_at": "2019-10-03 13:42:45",
+        "updated_at": "2020-03-10 12:33:17",
+        "Cost": "50",
+        "Latitude": "-1.3278070420721728",
+        "Longitude": "36.82598483837585"
+      },
+      {
+        "id": 204,
+        "RouteId": 4,
+        "Name": "MIDLAND COURT",
+        "created_at": "2019-10-03 13:43:39",
+        "updated_at": "2021-06-09 14:54:39",
+        "Cost": "50",
+        "Latitude": "-1.3273351000000007",
+        "Longitude": "36.82380688465576"
+      },
+      {
+        "id": 205,
+        "RouteId": 4,
+        "Name": "MONALI",
+        "created_at": "2019-10-03 13:45:05",
+        "updated_at": "2021-06-09 14:54:52",
+        "Cost": "50",
+        "Latitude": "-1.3255896000000071",
+        "Longitude": "36.82391488465578"
+      },
+      {
+        "id": 206,
+        "RouteId": 4,
+        "Name": "ASILIA ESTATE",
+        "created_at": "2019-10-03 13:45:31",
+        "updated_at": "2021-06-09 14:55:12",
+        "Cost": "50",
+        "Latitude": "-1.3264020076915133",
+        "Longitude": "36.82645556931152"
+      },
+      {
+        "id": 207,
+        "RouteId": 4,
+        "Name": "MASS ETATE",
+        "created_at": "2019-10-03 13:46:20",
+        "updated_at": "2021-06-09 14:55:30",
+        "Cost": "50",
+        "Latitude": "-1.3263474999999914",
+        "Longitude": "36.82821571534425"
+      },
+      {
+        "id": 209,
+        "RouteId": 4,
+        "Name": "MOGOYA PH 2",
+        "created_at": "2019-10-03 13:48:21",
+        "updated_at": "2021-06-09 14:55:49",
+        "Cost": "50",
+        "Latitude": "-1.3203987039492446",
+        "Longitude": "36.82618759999998"
+      },
+      {
+        "id": 210,
+        "RouteId": 4,
+        "Name": "MOGOYA JESHI",
+        "created_at": "2019-10-03 13:49:25",
+        "updated_at": "2020-02-28 15:16:37",
+        "Cost": "50",
+        "Latitude": "-1.3215579135655484",
+        "Longitude": "36.82863832225951"
+      },
+      {
+        "id": 211,
+        "RouteId": 4,
+        "Name": "PARK VIEW PH 1",
+        "created_at": "2019-10-03 13:50:26",
+        "updated_at": "2021-06-09 14:56:22",
+        "Cost": "50",
+        "Latitude": "-1.3179923999999719",
+        "Longitude": "36.82624708465574"
+      },
+      {
+        "id": 213,
+        "RouteId": 4,
+        "Name": "OASIS ESTATE",
+        "created_at": "2019-10-03 13:52:17",
+        "updated_at": "2020-03-10 12:40:38",
+        "Cost": "50",
+        "Latitude": "-1.3255846336850385",
+        "Longitude": "36.82316601639406"
+      },
+      {
+        "id": 242,
+        "RouteId": 4,
+        "Name": "KEWI",
+        "created_at": "2019-10-04 09:00:25",
+        "updated_at": "2021-06-08 12:55:54",
+        "Cost": "50",
+        "Latitude": "-1.3145258618413387",
+        "Longitude": "36.82352658095095"
+      },
+      {
+        "id": 244,
+        "RouteId": 4,
+        "Name": "MUGOYA 4",
+        "created_at": "2019-10-04 09:37:14",
+        "updated_at": "2020-02-28 13:34:05",
+        "Cost": "50",
+        "Latitude": "-1.3251724319351137",
+        "Longitude": "36.83076539762268"
+      },
+      {
+        "id": 245,
+        "RouteId": 4,
+        "Name": "RUGUNGA LANE",
+        "created_at": "2019-10-04 09:50:34",
+        "updated_at": "2020-02-28 13:35:34",
+        "Cost": "50",
+        "Latitude": "-1.311385970327325",
+        "Longitude": "36.82188738203127"
+      },
+      {
+        "id": 249,
+        "RouteId": 4,
+        "Name": "MILLER ESTATE",
+        "created_at": "2019-10-14 10:48:41",
+        "updated_at": "2021-05-27 14:01:10",
+        "Cost": "50",
+        "Latitude": "-1.3121527414852374",
+        "Longitude": "36.8212619230316"
+      },
+      {
+        "id": 255,
+        "RouteId": 4,
+        "Name": "SYOKIMAU-F",
+        "created_at": "2020-01-24 15:32:15",
+        "updated_at": "2021-06-08 13:43:17",
+        "Cost": "50",
+        "Latitude": "-1.3635175230697028",
+        "Longitude": "36.91172030932619"
+      },
+      {
+        "id": 269,
+        "RouteId": 4,
+        "Name": "AVENUE",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-01-31 16:04:06",
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 272,
+        "RouteId": 4,
+        "Name": "BANDARI SOUTH C\/ WAMCO",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2021-06-09 12:34:51",
+        "Cost": "50",
+        "Latitude": "36.99904032984445",
+        "Longitude": "33.004849433898926"
+      },
+      {
+        "id": 274,
+        "RouteId": 4,
+        "Name": "BELLEVUE  MOMBASA RD",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-02-28 13:36:50",
+        "Cost": 110,
+        "Latitude": "-1.3196401167270269",
+        "Longitude": "36.83813080558777"
+      },
+      {
+        "id": 283,
+        "RouteId": 4,
+        "Name": "HUMAYUN",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-02-28 15:22:21",
+        "Cost": 110,
+        "Latitude": "-1.314730915029204",
+        "Longitude": "36.8227546981476"
+      },
+      {
+        "id": 284,
+        "RouteId": 4,
+        "Name": "KCB FLATS - Route D",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-03-10 12:38:46",
+        "Cost": 110,
+        "Latitude": "0",
+        "Longitude": "0"
+      },
+      {
+        "id": 285,
+        "RouteId": 4,
+        "Name": "KENYA RE- GARDEN ESTATE SOUTH C",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-02-28 13:37:52",
+        "Cost": 110,
+        "Latitude": "-1.32303702482725",
+        "Longitude": "36.838006608459466"
+      },
+      {
+        "id": 289,
+        "RouteId": 4,
+        "Name": "LEEBARN B",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2021-06-09 14:57:19",
+        "Cost": 110,
+        "Latitude": "-1.3296645000000156",
+        "Longitude": "36.82959433862306"
+      },
+      {
+        "id": 293,
+        "RouteId": 4,
+        "Name": "MIHUTI SOUTH C",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2021-06-08 13:45:40",
+        "Cost": 110,
+        "Latitude": "-1.3114149064861376",
+        "Longitude": "36.82285255872192"
+      },
+      {
+        "id": 294,
+        "RouteId": 4,
+        "Name": "MUGOYA PHASE1\/2\/3\/4\/KPA",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2021-06-09 14:58:09",
+        "Cost": 110,
+        "Latitude": "-1.3203289850313529",
+        "Longitude": "36.82618759999998"
+      },
+      {
+        "id": 303,
+        "RouteId": 4,
+        "Name": "GREATWALL",
+        "created_at": "2020-02-03 15:34:46",
+        "updated_at": "2020-02-28 12:05:19",
+        "Cost": "50",
+        "Latitude": "-1.3805087480357388",
+        "Longitude": "36.94070891376952"
+      },
+      {
+        "id": 334,
+        "RouteId": 4,
+        "Name": "Tsavo court",
+        "created_at": "2020-03-05 11:17:06",
+        "updated_at": "2020-03-05 11:34:26",
+        "Cost": "50",
+        "Latitude": "-1.3247030210678061",
+        "Longitude": "36.819234857363874"
+      },
+      {
+        "id": 350,
+        "RouteId": 4,
+        "Name": "AIRPORT HOTEL",
+        "created_at": "2020-03-09 15:02:17",
+        "updated_at": "2020-03-09 15:02:34",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 354,
+        "RouteId": 4,
+        "Name": "SAKASO",
+        "created_at": "2020-03-10 12:20:08",
+        "updated_at": "2021-06-09 14:59:17",
+        "Cost": "50",
+        "Latitude": "-1.3268280076767478",
+        "Longitude": "36.82777018465575"
+      },
+      {
+        "id": 364,
+        "RouteId": 4,
+        "Name": "AKIBA BELLEVUE",
+        "created_at": "2020-03-11 12:13:35",
+        "updated_at": "2021-06-09 14:59:33",
+        "Cost": "50",
+        "Latitude": "-1.321891792524067",
+        "Longitude": "36.83339703558198"
+      },
+      {
+        "id": 365,
+        "RouteId": 4,
+        "Name": "CID",
+        "created_at": "2020-03-11 12:17:56",
+        "updated_at": "2021-06-09 15:00:33",
+        "Cost": "50",
+        "Latitude": "-1.3215697299113867",
+        "Longitude": "36.830095257672106"
+      },
+      {
+        "id": 366,
+        "RouteId": 4,
+        "Name": "BELLEVUE APARTMENTS",
+        "created_at": "2020-03-11 12:22:03",
+        "updated_at": "2021-06-08 13:50:15",
+        "Cost": "50",
+        "Latitude": "-1.3282037075351516",
+        "Longitude": "36.834758497518536"
+      },
+      {
+        "id": 367,
+        "RouteId": 4,
+        "Name": "MADINA",
+        "created_at": "2020-03-11 12:36:12",
+        "updated_at": "2020-03-11 12:36:53",
+        "Cost": "50",
+        "Latitude": "-1.3256312000000166",
+        "Longitude": "36.83549247116395"
+      },
+      {
+        "id": 368,
+        "RouteId": 4,
+        "Name": "MOW",
+        "created_at": "2020-03-11 12:59:10",
+        "updated_at": "2020-03-11 12:59:48",
+        "Cost": "50",
+        "Latitude": "-1.3164176474635187",
+        "Longitude": "36.83162513816755"
+      },
+      {
+        "id": 369,
+        "RouteId": 4,
+        "Name": "THOGORI",
+        "created_at": "2020-03-11 13:12:30",
+        "updated_at": "2021-06-09 12:18:32",
+        "Cost": "50",
+        "Latitude": "-1.3276259036213267",
+        "Longitude": "36.83699793565139"
+      },
+      {
+        "id": 370,
+        "RouteId": 4,
+        "Name": "REGIS COURT",
+        "created_at": "2020-03-11 13:21:43",
+        "updated_at": "2020-03-11 13:23:59",
+        "Cost": "50",
+        "Latitude": "-1.32544157749757",
+        "Longitude": "36.83311972502707"
+      },
+      {
+        "id": 371,
+        "RouteId": 4,
+        "Name": "SOUTHEND",
+        "created_at": "2020-03-11 13:39:51",
+        "updated_at": "2020-03-11 13:44:27",
+        "Cost": "50",
+        "Latitude": "-1.3223334266983642",
+        "Longitude": "36.83118274257507"
+      },
+      {
+        "id": 375,
+        "RouteId": 4,
+        "Name": "SIFA SPRINGS",
+        "created_at": "2020-03-11 15:14:40",
+        "updated_at": "2020-03-11 15:16:49",
+        "Cost": "50",
+        "Latitude": "-1.3231723405807083",
+        "Longitude": "36.81956222209016"
+      },
+      {
+        "id": 384,
+        "RouteId": 4,
+        "Name": "AKIBA BELLVUE\/SOUTHC\/5 STAR",
+        "created_at": null,
+        "updated_at": "2021-06-09 12:41:27",
+        "Cost": 110,
+        "Latitude": "-1.3279824847355444",
+        "Longitude": "36.83514607672119"
+      },
+      {
+        "id": 395,
+        "RouteId": 4,
+        "Name": "RUBY FLATS\/ARMY SOUTH C",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:40:18",
+        "Cost": 110,
+        "Latitude": "-1.3252987386785469",
+        "Longitude": "36.82600356137696"
+      },
+      {
+        "id": 398,
+        "RouteId": 4,
+        "Name": "PARK VIEW SOUTH C",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 403,
+        "RouteId": 4,
+        "Name": "KONGONI SOUTH C",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 404,
+        "RouteId": 4,
+        "Name": "KEWI SOUTHC\/S-C GARDEN",
+        "created_at": null,
+        "updated_at": "2021-06-09 12:43:29",
+        "Cost": 110,
+        "Latitude": "-1.3149695202211409",
+        "Longitude": "36.823725999999986"
+      },
+      {
+        "id": 433,
+        "RouteId": 4,
+        "Name": "KRA - SOUTH C",
+        "created_at": "2021-05-25 11:45:00",
+        "updated_at": "2021-05-27 14:30:50",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 435,
+        "RouteId": 4,
+        "Name": "SWICON COURT",
+        "created_at": "2021-05-28 12:16:21",
+        "updated_at": "2021-06-09 12:17:23",
+        "Cost": "50",
+        "Latitude": "-1.3271584214988772",
+        "Longitude": "36.835933458860794"
+      },
+      {
+        "id": 439,
+        "RouteId": 4,
+        "Name": "TEMPORARY",
+        "created_at": "2021-05-28 14:59:44",
+        "updated_at": "2021-05-28 15:00:00",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 443,
+        "RouteId": 4,
+        "Name": "NAIROBI WEST - D",
+        "created_at": "2021-05-28 15:55:11",
+        "updated_at": "2021-06-08 12:25:11",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 450,
+        "RouteId": 4,
+        "Name": "REAL ESTATE",
+        "created_at": "2021-05-31 11:28:53",
+        "updated_at": "2021-06-09 12:44:59",
+        "Cost": "50",
+        "Latitude": "-1.3256549192991385",
+        "Longitude": "36.84113859999998"
+      },
+      {
+        "id": 451,
+        "RouteId": 4,
+        "Name": "WAMBCO",
+        "created_at": "2021-05-31 11:37:47",
+        "updated_at": "2021-06-08 13:49:51",
+        "Cost": "50",
+        "Latitude": "-1.3196179833723378",
+        "Longitude": "36.835920209123245"
+      },
+      {
+        "id": 477,
+        "RouteId": 4,
+        "Name": "FAIR WAYS",
+        "created_at": "2021-06-09 14:16:22",
+        "updated_at": "2021-06-09 14:40:51",
+        "Cost": "50",
+        "Latitude": "-1.322933100000012",
+        "Longitude": "36.824414584655756"
+      },
+      {
+        "id": 478,
+        "RouteId": 4,
+        "Name": "MUGOYA JESHI",
+        "created_at": "2021-06-09 14:23:19",
+        "updated_at": "2021-06-09 14:43:51",
+        "Cost": "50",
+        "Latitude": "-1.322545190167381",
+        "Longitude": "36.825841251867686"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "Name": "ROUTE F",
+    "Cost": "",
+    "created_at": null,
+    "updated_at": null,
+    "stations": [
+      {
+        "id": 67,
+        "RouteId": 5,
+        "Name": "STATION TEST",
+        "created_at": null,
+        "updated_at": "2019-09-18 16:36:15",
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 68,
+        "RouteId": 5,
+        "Name": "EAGLE PLANE",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 69,
+        "RouteId": 5,
+        "Name": "NAIROBI WEST",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:08:05",
+        "Cost": 110,
+        "Latitude": "0",
+        "Longitude": "0"
+      },
+      {
+        "id": 70,
+        "RouteId": 5,
+        "Name": "SYOKIMAU",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:12:47",
+        "Cost": 110,
+        "Latitude": "-1.3593559098031358",
+        "Longitude": "36.93802741534426"
+      },
+      {
+        "id": 71,
+        "RouteId": 5,
+        "Name": "JABAVU VILLAGE",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:13:55",
+        "Cost": 110,
+        "Latitude": "-0.000042915344236620943",
+        "Longitude": "0.0009012222290039062"
+      },
+      {
+        "id": 131,
+        "RouteId": 5,
+        "Name": "KIFARU",
+        "created_at": "2019-09-30 15:04:29",
+        "updated_at": "2020-03-03 15:22:03",
+        "Cost": 110,
+        "Latitude": "-1.3084570094274444",
+        "Longitude": "36.82716573743439"
+      },
+      {
+        "id": 188,
+        "RouteId": 5,
+        "Name": "OPP. JEMUMA",
+        "created_at": "2019-10-03 10:52:10",
+        "updated_at": "2020-03-03 15:24:58",
+        "Cost": "50",
+        "Latitude": "-1.309845308494968",
+        "Longitude": "36.82403950926206"
+      },
+      {
+        "id": 189,
+        "RouteId": 5,
+        "Name": "KIFARU C",
+        "created_at": "2019-10-03 10:52:10",
+        "updated_at": "2020-03-03 15:25:33",
+        "Cost": "50",
+        "Latitude": "-1.3084570094274444",
+        "Longitude": "36.82716573743439"
+      },
+      {
+        "id": 190,
+        "RouteId": 5,
+        "Name": "SWARA CRESENT",
+        "created_at": "2019-10-03 10:54:46",
+        "updated_at": "2020-03-10 11:39:04",
+        "Cost": "50",
+        "Latitude": "-1.309436200283387",
+        "Longitude": "36.82701154596328"
+      },
+      {
+        "id": 191,
+        "RouteId": 5,
+        "Name": "VEKARIA",
+        "created_at": "2019-10-03 10:55:53",
+        "updated_at": "2020-03-03 15:20:15",
+        "Cost": "50",
+        "Latitude": "-1.310552538387976",
+        "Longitude": "36.826901481614684"
+      },
+      {
+        "id": 192,
+        "RouteId": 5,
+        "Name": "KODI RAOD",
+        "created_at": "2019-10-03 10:56:16",
+        "updated_at": "2020-03-10 11:40:07",
+        "Cost": "50",
+        "Latitude": "-1.309470677608357",
+        "Longitude": "36.82070975263975"
+      },
+      {
+        "id": 193,
+        "RouteId": 5,
+        "Name": "SUMBA ROAD",
+        "created_at": "2019-10-03 10:56:32",
+        "updated_at": "2020-03-10 11:40:47",
+        "Cost": "50",
+        "Latitude": "-1.3102081547686308",
+        "Longitude": "36.82595302831115"
+      },
+      {
+        "id": 194,
+        "RouteId": 5,
+        "Name": "SWARA APPARTMENT",
+        "created_at": "2019-10-03 10:57:20",
+        "updated_at": "2020-03-10 11:41:21",
+        "Cost": "50",
+        "Latitude": "-1.309436200283387",
+        "Longitude": "36.82701154596328"
+      },
+      {
+        "id": 195,
+        "RouteId": 5,
+        "Name": "BLISS HOSPITAL",
+        "created_at": "2019-10-03 10:58:18",
+        "updated_at": "2020-03-10 11:43:44",
+        "Cost": "50",
+        "Latitude": "-1.3071356413659145",
+        "Longitude": "36.82515499643401"
+      },
+      {
+        "id": 197,
+        "RouteId": 5,
+        "Name": "PAA CRESENT",
+        "created_at": "2019-10-03 11:00:43",
+        "updated_at": "2020-03-10 11:44:53",
+        "Cost": "50",
+        "Latitude": "-1.3075795463504183",
+        "Longitude": "36.826723026389324"
+      },
+      {
+        "id": 198,
+        "RouteId": 5,
+        "Name": "PARK WEST",
+        "created_at": "2019-10-03 11:49:00",
+        "updated_at": "2020-03-10 11:45:29",
+        "Cost": "50",
+        "Latitude": "-1.3060160319132452",
+        "Longitude": "36.826024318385315"
+      },
+      {
+        "id": 214,
+        "RouteId": 5,
+        "Name": "SUMBA ROAD 10",
+        "created_at": "2019-10-03 13:56:23",
+        "updated_at": "2020-03-10 11:46:04",
+        "Cost": "50",
+        "Latitude": "-1.3100258122346526",
+        "Longitude": "36.82572235833587"
+      },
+      {
+        "id": 215,
+        "RouteId": 5,
+        "Name": "PARK WEST 9",
+        "created_at": "2019-10-03 14:06:13",
+        "updated_at": "2020-03-10 11:46:35",
+        "Cost": "50",
+        "Latitude": "-1.3060160319132452",
+        "Longitude": "36.826024318385315"
+      },
+      {
+        "id": 217,
+        "RouteId": 5,
+        "Name": "ANNEX",
+        "created_at": "2019-10-03 14:06:56",
+        "updated_at": "2019-10-03 14:07:08",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 218,
+        "RouteId": 5,
+        "Name": "OPP JEMUMA",
+        "created_at": "2019-10-03 14:07:16",
+        "updated_at": "2020-03-10 11:49:24",
+        "Cost": "50",
+        "Latitude": "-1.3095645928247968",
+        "Longitude": "36.824279329885854"
+      },
+      {
+        "id": 224,
+        "RouteId": 5,
+        "Name": "WAMBCO ESTATE",
+        "created_at": "2019-10-03 14:09:48",
+        "updated_at": "2020-03-10 11:51:00",
+        "Cost": "50",
+        "Latitude": "-1.3091054328396183",
+        "Longitude": "36.824592893254085"
+      },
+      {
+        "id": 225,
+        "RouteId": 5,
+        "Name": "MVULI",
+        "created_at": "2019-10-03 14:10:09",
+        "updated_at": "2020-03-10 11:52:04",
+        "Cost": "50",
+        "Latitude": "-1.3063953883718094",
+        "Longitude": "36.82382030709304"
+      },
+      {
+        "id": 235,
+        "RouteId": 5,
+        "Name": "KODI RD 37\/260",
+        "created_at": "2019-10-03 14:18:57",
+        "updated_at": "2020-03-10 11:54:58",
+        "Cost": "50",
+        "Latitude": "-1.309374143298912",
+        "Longitude": "36.820811676582316"
+      },
+      {
+        "id": 236,
+        "RouteId": 5,
+        "Name": "KODI 259\/14",
+        "created_at": "2019-10-03 14:19:27",
+        "updated_at": "2020-03-10 11:55:50",
+        "Cost": "50",
+        "Latitude": "-1.3095350338125922",
+        "Longitude": "36.820924337218976"
+      },
+      {
+        "id": 237,
+        "RouteId": 5,
+        "Name": "KODI IMAN",
+        "created_at": "2019-10-03 14:20:53",
+        "updated_at": "2020-03-10 11:56:18",
+        "Cost": "50",
+        "Latitude": "-1.309417047436897",
+        "Longitude": "36.82015721758268"
+      },
+      {
+        "id": 238,
+        "RouteId": 5,
+        "Name": "OPP.OCEAN",
+        "created_at": "2019-10-03 14:21:43",
+        "updated_at": "2020-03-10 11:57:25",
+        "Cost": "50",
+        "Latitude": "-1.307856581808108",
+        "Longitude": "36.82479167990111"
+      },
+      {
+        "id": 239,
+        "RouteId": 5,
+        "Name": "NIAMEY",
+        "created_at": "2019-10-03 14:22:03",
+        "updated_at": "2020-03-10 11:58:00",
+        "Cost": "50",
+        "Latitude": "-1.3085603319723165",
+        "Longitude": "36.82481700912323"
+      },
+      {
+        "id": 241,
+        "RouteId": 5,
+        "Name": "New Station",
+        "created_at": "2019-10-03 14:23:18",
+        "updated_at": "2019-10-03 14:23:18",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 279,
+        "RouteId": 5,
+        "Name": "EASY PRESTIDGE SYOKIMAU",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-03-11 13:55:48",
+        "Cost": 110,
+        "Latitude": "-1.363947319427713",
+        "Longitude": "36.91940822883607"
+      },
+      {
+        "id": 282,
+        "RouteId": 5,
+        "Name": "GREATWALL SYOKIMAU",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-03-11 13:56:51",
+        "Cost": 110,
+        "Latitude": "-1.3825680857567535",
+        "Longitude": "36.9387777232788"
+      },
+      {
+        "id": 312,
+        "RouteId": 5,
+        "Name": "ATHI VIEW",
+        "created_at": "2020-03-04 11:23:08",
+        "updated_at": "2020-03-04 11:23:33",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 313,
+        "RouteId": 5,
+        "Name": "EASY HOTEL",
+        "created_at": "2020-03-04 11:23:41",
+        "updated_at": "2020-03-11 13:57:21",
+        "Cost": "50",
+        "Latitude": "-1.3633372904163013",
+        "Longitude": "36.91900781349183"
+      },
+      {
+        "id": 314,
+        "RouteId": 5,
+        "Name": "FIVE STAR GARDEN",
+        "created_at": "2020-03-04 11:24:23",
+        "updated_at": "2020-03-04 11:25:03",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 315,
+        "RouteId": 5,
+        "Name": "360 ONE",
+        "created_at": "2020-03-04 11:25:07",
+        "updated_at": "2020-03-04 11:26:13",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 316,
+        "RouteId": 5,
+        "Name": "360 TWO",
+        "created_at": "2020-03-04 11:26:14",
+        "updated_at": "2020-03-04 11:26:26",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 317,
+        "RouteId": 5,
+        "Name": "AMANI COURT A",
+        "created_at": "2020-03-04 11:26:33",
+        "updated_at": "2020-03-04 11:26:47",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 318,
+        "RouteId": 5,
+        "Name": "AMANI COURT B",
+        "created_at": "2020-03-04 11:26:47",
+        "updated_at": "2020-03-04 11:27:04",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 319,
+        "RouteId": 5,
+        "Name": "GRATE WALL GARDEN PH 1",
+        "created_at": "2020-03-04 11:27:14",
+        "updated_at": "2020-03-04 11:27:35",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 320,
+        "RouteId": 5,
+        "Name": "RUBY FLATS",
+        "created_at": "2020-03-04 11:27:38",
+        "updated_at": "2020-03-12 11:47:28",
+        "Cost": "50",
+        "Latitude": "-1.382403637134618",
+        "Longitude": "36.92239979416505"
+      },
+      {
+        "id": 321,
+        "RouteId": 5,
+        "Name": "ZEBRA COURT",
+        "created_at": "2020-03-04 11:28:20",
+        "updated_at": "2020-03-04 11:28:57",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 322,
+        "RouteId": 5,
+        "Name": "GRATE WALL GARDEN ATHI",
+        "created_at": "2020-03-04 11:46:51",
+        "updated_at": "2021-06-09 13:14:12",
+        "Cost": "50",
+        "Latitude": "-1.42902901914539",
+        "Longitude": "36.97696608206178"
+      },
+      {
+        "id": 323,
+        "RouteId": 5,
+        "Name": "RIVER BANK",
+        "created_at": "2020-03-04 11:59:57",
+        "updated_at": "2020-03-04 12:00:25",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 324,
+        "RouteId": 5,
+        "Name": "BUSTANI VILLAS",
+        "created_at": "2020-03-04 12:01:01",
+        "updated_at": "2020-03-04 12:02:01",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 325,
+        "RouteId": 5,
+        "Name": "DOVE COURT",
+        "created_at": "2020-03-04 12:02:02",
+        "updated_at": "2021-06-09 13:10:29",
+        "Cost": "50",
+        "Latitude": "-1.3547326188053868",
+        "Longitude": "36.95042248175352"
+      },
+      {
+        "id": 326,
+        "RouteId": 5,
+        "Name": "JABALI",
+        "created_at": "2020-03-04 12:02:37",
+        "updated_at": "2020-03-04 12:19:40",
+        "Cost": "50",
+        "Latitude": "-1.3591184128777423",
+        "Longitude": "36.928539802902215"
+      },
+      {
+        "id": 327,
+        "RouteId": 5,
+        "Name": "STIMA VILLAGE",
+        "created_at": "2020-03-04 12:02:58",
+        "updated_at": "2020-03-04 12:03:14",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 328,
+        "RouteId": 5,
+        "Name": "JEWEL ACADEMY",
+        "created_at": "2020-03-04 12:03:17",
+        "updated_at": "2020-03-04 12:03:38",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 329,
+        "RouteId": 5,
+        "Name": "EDEN COURT",
+        "created_at": "2020-03-04 12:03:38",
+        "updated_at": "2020-03-04 12:14:21",
+        "Cost": "50",
+        "Latitude": "-1.3634704611813933",
+        "Longitude": "36.94677226427916"
+      },
+      {
+        "id": 330,
+        "RouteId": 5,
+        "Name": "BARAKA COURT",
+        "created_at": "2020-03-04 12:04:04",
+        "updated_at": "2020-03-04 12:04:21",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 331,
+        "RouteId": 5,
+        "Name": "SHUJAH COURT",
+        "created_at": "2020-03-04 12:04:25",
+        "updated_at": "2020-03-04 12:11:55",
+        "Cost": "50",
+        "Latitude": "-1.3622239929402444",
+        "Longitude": "36.959338342852774"
+      },
+      {
+        "id": 332,
+        "RouteId": 5,
+        "Name": "KOBA COURT",
+        "created_at": "2020-03-04 12:04:49",
+        "updated_at": "2020-03-04 12:09:31",
+        "Cost": "50",
+        "Latitude": "-1.361542904297172",
+        "Longitude": "36.959359800524894"
+      },
+      {
+        "id": 333,
+        "RouteId": 5,
+        "Name": "GRATE WALL PH 3",
+        "created_at": "2020-03-04 12:05:05",
+        "updated_at": "2020-03-04 12:06:55",
+        "Cost": "50",
+        "Latitude": "-1.380958500000002",
+        "Longitude": "36.94099893068848"
+      },
+      {
+        "id": 352,
+        "RouteId": 5,
+        "Name": "SUMBA ROAD 19",
+        "created_at": "2020-03-10 11:12:24",
+        "updated_at": "2020-03-10 11:37:18",
+        "Cost": "50",
+        "Latitude": "-1.3102054732608792",
+        "Longitude": "36.82585110436858"
+      },
+      {
+        "id": 353,
+        "RouteId": 5,
+        "Name": "KISAUNI ROAD",
+        "created_at": "2020-03-10 11:18:38",
+        "updated_at": "2020-03-10 11:35:16",
+        "Cost": "50",
+        "Latitude": "-1.3067868890685248",
+        "Longitude": "36.8217791460327"
+      },
+      {
+        "id": 378,
+        "RouteId": 5,
+        "Name": "67 HOTEL",
+        "created_at": "2020-03-12 11:27:19",
+        "updated_at": "2020-03-12 11:29:06",
+        "Cost": "50",
+        "Latitude": "-1.3821354942847208",
+        "Longitude": "36.92441681534425"
+      },
+      {
+        "id": 379,
+        "RouteId": 5,
+        "Name": "MWANACHI ROAD",
+        "created_at": "2020-03-12 11:29:34",
+        "updated_at": "2020-03-12 11:31:28",
+        "Cost": "50",
+        "Latitude": "-1.3594291912548429",
+        "Longitude": "36.92694518308107"
+      },
+      {
+        "id": 380,
+        "RouteId": 5,
+        "Name": "OREGON",
+        "created_at": "2020-03-12 11:36:29",
+        "updated_at": "2020-03-12 11:37:53",
+        "Cost": "50",
+        "Latitude": "-1.3591448954839278",
+        "Longitude": "36.927288446032726"
+      },
+      {
+        "id": 381,
+        "RouteId": 5,
+        "Name": "BLOSSOM",
+        "created_at": "2020-03-12 11:41:04",
+        "updated_at": "2020-03-12 11:42:25",
+        "Cost": "50",
+        "Latitude": "-1.3593594734477916",
+        "Longitude": "36.92693445424501"
+      },
+      {
+        "id": 382,
+        "RouteId": 5,
+        "Name": "KALEMBE ROAD",
+        "created_at": "2020-03-12 11:48:36",
+        "updated_at": "2020-03-12 11:52:01",
+        "Cost": "50",
+        "Latitude": "-1.3667940207591864",
+        "Longitude": "36.944233980395516"
+      },
+      {
+        "id": 383,
+        "RouteId": 5,
+        "Name": "ZEBRA COURT SYOKIMAU",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 388,
+        "RouteId": 5,
+        "Name": "OREGON SYOKIMAU",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 391,
+        "RouteId": 5,
+        "Name": "ZEBRA COURT SYOKIMAU",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 393,
+        "RouteId": 5,
+        "Name": "VIRAJ SCHOOL SYOKIMAU",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 396,
+        "RouteId": 5,
+        "Name": "RUBBY ZEN SYOKIMAU",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 406,
+        "RouteId": 5,
+        "Name": "JEWEL HOUSING SYOKIMAU",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 407,
+        "RouteId": 5,
+        "Name": "JABALI SYOKIMAU",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 409,
+        "RouteId": 5,
+        "Name": "ATHI VIEW SYOKIMAU",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 411,
+        "RouteId": 5,
+        "Name": "360 APPARTMENTS SYOKIMAU",
+        "created_at": null,
+        "updated_at": "2021-06-09 13:15:39",
+        "Cost": 110,
+        "Latitude": "-1.3716351196682357",
+        "Longitude": "36.93306351719665"
+      },
+      {
+        "id": 444,
+        "RouteId": 5,
+        "Name": "TEMPORARY",
+        "created_at": "2021-05-28 15:55:35",
+        "updated_at": "2021-05-28 15:55:41",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 463,
+        "RouteId": 5,
+        "Name": "SUMMER VILLE - SYOKIMAU",
+        "created_at": "2021-06-09 12:51:21",
+        "updated_at": "2021-06-09 12:54:42",
+        "Cost": "50",
+        "Latitude": "-1.3631476605903607",
+        "Longitude": "36.917185016008"
+      },
+      {
+        "id": 464,
+        "RouteId": 5,
+        "Name": "AMALIA ESTATE - SYOKIMAU",
+        "created_at": "2021-06-09 12:56:57",
+        "updated_at": "2021-06-09 12:59:34",
+        "Cost": "50",
+        "Latitude": "-1.3634967611797466",
+        "Longitude": "36.921250900000004"
+      },
+      {
+        "id": 466,
+        "RouteId": 5,
+        "Name": "New Station",
+        "created_at": "2021-06-09 13:01:17",
+        "updated_at": "2021-06-09 13:01:17",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 467,
+        "RouteId": 5,
+        "Name": "LYN WOOD ESTATE - SYOKIMAU",
+        "created_at": "2021-06-09 13:01:18",
+        "updated_at": "2021-06-09 13:03:21",
+        "Cost": "50",
+        "Latitude": "-1.3821542972635679",
+        "Longitude": "36.92072069283751"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "Name": "ROUTE G",
+    "Cost": "",
+    "created_at": null,
+    "updated_at": null,
+    "stations": [
+      {
+        "id": 72,
+        "RouteId": 6,
+        "Name": "GOLDEN GATE",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:02:40",
+        "Cost": 110,
+        "Latitude": "-1.3124352924731904",
+        "Longitude": "36.83854191779097"
+      },
+      {
+        "id": 73,
+        "RouteId": 6,
+        "Name": "GOLFCOURSE",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 74,
+        "RouteId": 6,
+        "Name": "HAZINA",
+        "created_at": null,
+        "updated_at": "2021-06-09 15:17:45",
+        "Cost": 110,
+        "Latitude": "-1.3159785957293104",
+        "Longitude": "36.84873952803344"
+      },
+      {
+        "id": 86,
+        "RouteId": 6,
+        "Name": "SOVIA-JAMBO",
+        "created_at": "2019-09-13 11:49:54",
+        "updated_at": "2019-09-13 12:03:20",
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 87,
+        "RouteId": 6,
+        "Name": "SOUTH B",
+        "created_at": "2019-09-13 12:03:33",
+        "updated_at": "2021-06-09 14:06:08",
+        "Cost": 110,
+        "Latitude": "0",
+        "Longitude": "0"
+      },
+      {
+        "id": 265,
+        "RouteId": 6,
+        "Name": "SOUTH B - SHOPPING CENTER",
+        "created_at": "2020-01-29 13:16:25",
+        "updated_at": "2021-06-09 14:08:20",
+        "Cost": "50",
+        "Latitude": "-1.3108976917965378",
+        "Longitude": "36.83775937434388"
+      },
+      {
+        "id": 266,
+        "RouteId": 6,
+        "Name": "SANASANA",
+        "created_at": "2020-01-29 13:24:43",
+        "updated_at": "2021-06-09 14:11:31",
+        "Cost": "50",
+        "Latitude": "-1.3186827960218968",
+        "Longitude": "36.83961510713196"
+      },
+      {
+        "id": 267,
+        "RouteId": 6,
+        "Name": "SOUTH B -MARIAKANI",
+        "created_at": "2020-01-29 15:02:21",
+        "updated_at": "2021-06-09 14:11:42",
+        "Cost": "50",
+        "Latitude": "0",
+        "Longitude": "0"
+      },
+      {
+        "id": 288,
+        "RouteId": 6,
+        "Name": "KONGONI SOUTH B",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2021-06-09 14:13:38",
+        "Cost": 110,
+        "Latitude": "-1.3119884821648438",
+        "Longitude": "36.82823147672121"
+      },
+      {
+        "id": 297,
+        "RouteId": 6,
+        "Name": "SOUTH B \/SHOPPING CENTRE",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2021-06-09 14:14:19",
+        "Cost": 110,
+        "Latitude": "-1.3108976917965378",
+        "Longitude": "36.83775937434388"
+      },
+      {
+        "id": 298,
+        "RouteId": 6,
+        "Name": "SOUTH -C SHOPPING CENTRE",
+        "created_at": "2020-01-31 16:04:07",
+        "updated_at": "2021-06-09 14:14:35",
+        "Cost": 110,
+        "Latitude": "-1.3108976917965378",
+        "Longitude": "36.83775937434388"
+      },
+      {
+        "id": 344,
+        "RouteId": 6,
+        "Name": "RIVER BANK PH2",
+        "created_at": "2020-03-09 13:53:48",
+        "updated_at": "2021-06-09 14:17:31",
+        "Cost": "50",
+        "Latitude": "-1.3130630780565566",
+        "Longitude": "36.84337563558196"
+      },
+      {
+        "id": 345,
+        "RouteId": 6,
+        "Name": "RIVER BANK PH 1",
+        "created_at": "2020-03-09 13:57:42",
+        "updated_at": "2021-06-09 14:18:22",
+        "Cost": "50",
+        "Latitude": "-1.3126983933913345",
+        "Longitude": "36.84397376819228"
+      },
+      {
+        "id": 346,
+        "RouteId": 6,
+        "Name": "MARIAKANI",
+        "created_at": "2020-03-09 14:24:54",
+        "updated_at": "2021-06-09 14:18:55",
+        "Cost": "50",
+        "Latitude": "-1.3089998763497257",
+        "Longitude": "36.835701758474755"
+      },
+      {
+        "id": 347,
+        "RouteId": 6,
+        "Name": "BIMA",
+        "created_at": "2020-03-09 14:27:25",
+        "updated_at": "2021-06-09 14:19:32",
+        "Cost": "50",
+        "Latitude": "-1.3098539328540535",
+        "Longitude": "36.83713337116395"
+      },
+      {
+        "id": 348,
+        "RouteId": 6,
+        "Name": "PLAINS VIEW",
+        "created_at": "2020-03-09 14:42:07",
+        "updated_at": "2021-06-09 14:21:25",
+        "Cost": "50",
+        "Latitude": "-1.3160214997539783",
+        "Longitude": "36.84870197710723"
+      },
+      {
+        "id": 349,
+        "RouteId": 6,
+        "Name": "SANA SANA",
+        "created_at": "2020-03-09 14:44:30",
+        "updated_at": "2021-06-09 14:21:55",
+        "Cost": "50",
+        "Latitude": "-1.3186827960218968",
+        "Longitude": "36.83961510713196"
+      },
+      {
+        "id": 387,
+        "RouteId": 6,
+        "Name": "PLAINSVIEW\/KAPITI ROAD\/CRESCENT",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:22:56",
+        "Cost": 110,
+        "Latitude": "-1.3186827960218968",
+        "Longitude": "36.83961510713196"
+      },
+      {
+        "id": 408,
+        "RouteId": 6,
+        "Name": "HAZINA\/RIVERBANK\/BIMA",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:25:16",
+        "Cost": 110,
+        "Latitude": "-1.3186827960218968",
+        "Longitude": "36.83961510713196"
+      },
+      {
+        "id": 445,
+        "RouteId": 6,
+        "Name": "TEMPORARY",
+        "created_at": "2021-05-28 15:55:48",
+        "updated_at": "2021-05-28 15:55:54",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 487,
+        "RouteId": 6,
+        "Name": "KARIPA ESTATE",
+        "created_at": "2021-06-09 15:23:44",
+        "updated_at": "2021-06-09 15:28:20",
+        "Cost": "50",
+        "Latitude": "-1.3109393254358745",
+        "Longitude": "36.84096701188658"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "Name": "ROUTE J",
+    "Cost": "50",
+    "created_at": null,
+    "updated_at": "2019-09-11 06:43:40",
+    "stations": [
+      {
+        "id": 77,
+        "RouteId": 7,
+        "Name": "KILELESHWA",
+        "created_at": null,
+        "updated_at": "2020-03-05 11:44:08",
+        "Cost": 110,
+        "Latitude": "-1.2760172374102503",
+        "Longitude": "36.79335716427918"
+      },
+      {
+        "id": 78,
+        "RouteId": 7,
+        "Name": "KILIMANI",
+        "created_at": null,
+        "updated_at": "2021-06-09 13:01:21",
+        "Cost": 110,
+        "Latitude": "-1.2899512517776508",
+        "Longitude": "36.783036578573615"
+      },
+      {
+        "id": 79,
+        "RouteId": 7,
+        "Name": "LAVINGTON",
+        "created_at": null,
+        "updated_at": "2020-03-05 11:49:42",
+        "Cost": 110,
+        "Latitude": "-1.2918304783276826",
+        "Longitude": "36.7693499625656"
+      },
+      {
+        "id": 80,
+        "RouteId": 7,
+        "Name": "NGONG ROAD",
+        "created_at": null,
+        "updated_at": "2021-06-09 13:03:10",
+        "Cost": 110,
+        "Latitude": "-1.2946672501204126",
+        "Longitude": "36.75948678769684"
+      },
+      {
+        "id": 81,
+        "RouteId": 7,
+        "Name": " BIMA",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 82,
+        "RouteId": 7,
+        "Name": "CITY PARK",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 83,
+        "RouteId": 7,
+        "Name": "RIARA THORNS",
+        "created_at": null,
+        "updated_at": "2020-03-05 12:20:44",
+        "Cost": 110,
+        "Latitude": "-1.2982001587125565",
+        "Longitude": "36.767453969959284"
+      },
+      {
+        "id": 84,
+        "RouteId": 7,
+        "Name": "SAVANNA SANDS",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 85,
+        "RouteId": 7,
+        "Name": "WOODLEY",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 101,
+        "RouteId": 7,
+        "Name": "KABARNET ROAD",
+        "created_at": "2019-09-26 12:54:23",
+        "updated_at": "2021-06-09 14:36:43",
+        "Cost": "50",
+        "Latitude": "0",
+        "Longitude": "0"
+      },
+      {
+        "id": 102,
+        "RouteId": 7,
+        "Name": "AYANY-KARANJA ROAD",
+        "created_at": "2019-09-26 12:56:27",
+        "updated_at": "2021-06-09 14:44:20",
+        "Cost": "50",
+        "Latitude": "-1.3112522589073634",
+        "Longitude": "36.78354848294219"
+      },
+      {
+        "id": 103,
+        "RouteId": 7,
+        "Name": "MIDEYA APARTMENTS",
+        "created_at": "2019-09-26 13:01:12",
+        "updated_at": "2019-09-26 13:01:33",
+        "Cost": "50",
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 104,
+        "RouteId": 7,
+        "Name": "RIDGEWOOD KILIMANI",
+        "created_at": "2019-09-26 13:03:37",
+        "updated_at": "2020-03-05 11:56:21",
+        "Cost": "50",
+        "Latitude": "-1.28327882793358",
+        "Longitude": "36.79015905078735"
+      },
+      {
+        "id": 109,
+        "RouteId": 7,
+        "Name": "KILELESHWA - CORNER COURT",
+        "created_at": "2019-09-26 13:27:27",
+        "updated_at": "2021-06-08 13:10:43",
+        "Cost": "50",
+        "Latitude": "-1.275358038219721",
+        "Longitude": "36.79426911534424"
+      },
+      {
+        "id": 110,
+        "RouteId": 7,
+        "Name": "JAMHURI PHASE 2",
+        "created_at": "2019-09-26 13:32:13",
+        "updated_at": "2021-06-09 14:47:04",
+        "Cost": "50",
+        "Latitude": "-1.3031996612115289",
+        "Longitude": "36.767701555542"
+      },
+      {
+        "id": 247,
+        "RouteId": 7,
+        "Name": "PEPONI ROAD",
+        "created_at": "2019-10-08 13:53:00",
+        "updated_at": "2021-06-08 13:12:51",
+        "Cost": "50",
+        "Latitude": "-1.2566474822585594",
+        "Longitude": "36.80207014337768"
+      },
+      {
+        "id": 335,
+        "RouteId": 7,
+        "Name": "VIHIGA ROAD",
+        "created_at": "2020-03-05 12:02:48",
+        "updated_at": "2020-03-05 12:03:58",
+        "Cost": "50",
+        "Latitude": "-1.2835295016332364",
+        "Longitude": "36.78042682698362"
+      },
+      {
+        "id": 336,
+        "RouteId": 7,
+        "Name": "KIKAMBALA ROAD",
+        "created_at": "2020-03-05 12:04:09",
+        "updated_at": "2020-03-05 12:05:23",
+        "Cost": "50",
+        "Latitude": "-1.2837815535897512",
+        "Longitude": "36.784168180950935"
+      },
+      {
+        "id": 337,
+        "RouteId": 7,
+        "Name": "HATHERU ROAD",
+        "created_at": "2020-03-05 12:05:46",
+        "updated_at": "2020-03-05 12:09:02",
+        "Cost": "50",
+        "Latitude": "-1.2916081968029207",
+        "Longitude": "36.75859801370012"
+      },
+      {
+        "id": 338,
+        "RouteId": 7,
+        "Name": "STATE HOUSE ROAD",
+        "created_at": "2020-03-05 12:09:48",
+        "updated_at": "2020-03-05 12:12:16",
+        "Cost": "50",
+        "Latitude": "-1.287352928340513",
+        "Longitude": "36.80112445977593"
+      },
+      {
+        "id": 339,
+        "RouteId": 7,
+        "Name": "KINDARUMA ROAD",
+        "created_at": "2020-03-05 12:14:00",
+        "updated_at": "2020-03-05 12:14:43",
+        "Cost": "50",
+        "Latitude": "-1.2980971913112571",
+        "Longitude": "36.78884116441804"
+      },
+      {
+        "id": 340,
+        "RouteId": 7,
+        "Name": "JUBAVU ROAD",
+        "created_at": "2020-03-05 12:15:00",
+        "updated_at": "2021-06-09 13:06:27",
+        "Cost": "50",
+        "Latitude": "-1.2929827185529426",
+        "Longitude": "36.79763145955506"
+      },
+      {
+        "id": 341,
+        "RouteId": 7,
+        "Name": "KING WOOD",
+        "created_at": "2020-03-05 12:25:24",
+        "updated_at": "2021-06-09 14:48:24",
+        "Cost": "50",
+        "Latitude": "-1.296462806508098",
+        "Longitude": "36.7665041"
+      },
+      {
+        "id": 397,
+        "RouteId": 7,
+        "Name": "RIARA JUNCTION",
+        "created_at": null,
+        "updated_at": "2021-06-09 14:49:23",
+        "Cost": 110,
+        "Latitude": "-1.297749289126212",
+        "Longitude": "36.76022200674592"
+      },
+      {
+        "id": 399,
+        "RouteId": 7,
+        "Name": "PARKLANDS",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 400,
+        "RouteId": 7,
+        "Name": "NHIF\/ BIMA",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 402,
+        "RouteId": 7,
+        "Name": "LENANA",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 436,
+        "RouteId": 7,
+        "Name": "SOHAIL COURT",
+        "created_at": "2021-05-28 13:41:36",
+        "updated_at": "2021-06-09 13:14:23",
+        "Cost": "50",
+        "Latitude": "-1.2964658467341499",
+        "Longitude": "36.78682759933625"
+      },
+      {
+        "id": 437,
+        "RouteId": 7,
+        "Name": "SAMAR COURT",
+        "created_at": "2021-05-28 13:50:31",
+        "updated_at": "2021-06-09 14:50:18",
+        "Cost": "50",
+        "Latitude": "-1.3006828323334458",
+        "Longitude": "36.78424461719667"
+      },
+      {
+        "id": 438,
+        "RouteId": 7,
+        "Name": "MAGESO",
+        "created_at": "2021-05-28 13:50:32",
+        "updated_at": "2021-06-08 13:13:42",
+        "Cost": "50",
+        "Latitude": "-1.2614901308681705",
+        "Longitude": "36.78940918413086"
+      },
+      {
+        "id": 446,
+        "RouteId": 7,
+        "Name": "TEMPORARY",
+        "created_at": "2021-05-28 15:56:04",
+        "updated_at": "2021-05-28 15:56:10",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 453,
+        "RouteId": 7,
+        "Name": "AIRPORT VIEW - J",
+        "created_at": "2021-06-08 11:56:21",
+        "updated_at": "2021-06-08 11:56:57",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 454,
+        "RouteId": 7,
+        "Name": "BLUE SKY - J",
+        "created_at": "2021-06-08 12:00:45",
+        "updated_at": "2021-06-08 12:01:06",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 469,
+        "RouteId": 7,
+        "Name": "MANGO COURT",
+        "created_at": "2021-06-09 13:14:40",
+        "updated_at": "2021-06-09 13:15:32",
+        "Cost": "50",
+        "Latitude": "-1.293303444153587",
+        "Longitude": "36.785887125378416"
+      },
+      {
+        "id": 470,
+        "RouteId": 7,
+        "Name": "PEARL HEIGTHS",
+        "created_at": "2021-06-09 13:16:12",
+        "updated_at": "2021-06-09 13:20:46",
+        "Cost": "50",
+        "Latitude": "-1.2797183215200858",
+        "Longitude": "36.782098235581984"
+      },
+      {
+        "id": 471,
+        "RouteId": 7,
+        "Name": "CHILUMA",
+        "created_at": "2021-06-09 13:20:47",
+        "updated_at": "2021-06-09 13:25:20",
+        "Cost": "50",
+        "Latitude": "-1.2837594307161475",
+        "Longitude": "36.784174199999995"
+      },
+      {
+        "id": 472,
+        "RouteId": 7,
+        "Name": "GOLDEN CENTURY",
+        "created_at": "2021-06-09 13:25:33",
+        "updated_at": "2021-06-09 13:35:57",
+        "Cost": "50",
+        "Latitude": "-1.284028984456603",
+        "Longitude": "36.779020620901484"
+      },
+      {
+        "id": 474,
+        "RouteId": 7,
+        "Name": "RIARA APARTMENTS",
+        "created_at": "2021-06-09 13:37:10",
+        "updated_at": "2021-06-09 13:50:52",
+        "Cost": "50",
+        "Latitude": "-1.2944580912170516",
+        "Longitude": "36.75971745767212"
+      },
+      {
+        "id": 475,
+        "RouteId": 7,
+        "Name": "MASANDUKU",
+        "created_at": "2021-06-09 13:37:11",
+        "updated_at": "2021-06-09 13:38:05",
+        "Cost": "50",
+        "Latitude": "-1.2954190999999964",
+        "Longitude": "36.765793657672106"
+      },
+      {
+        "id": 476,
+        "RouteId": 7,
+        "Name": "HARD ROCK",
+        "created_at": "2021-06-09 13:51:01",
+        "updated_at": "2021-06-09 13:51:47",
+        "Cost": "50",
+        "Latitude": "-1.283156132345",
+        "Longitude": "36.78882921779099"
+      },
+      {
+        "id": 483,
+        "RouteId": 7,
+        "Name": "KENYATTA HOSPITAL",
+        "created_at": "2021-06-09 14:50:54",
+        "updated_at": "2021-06-09 14:53:00",
+        "Cost": "50",
+        "Latitude": "-1.302393545566236",
+        "Longitude": "36.80786715155944"
+      },
+      {
+        "id": 484,
+        "RouteId": 7,
+        "Name": "MAWENZI GARDENS",
+        "created_at": "2021-06-09 14:53:08",
+        "updated_at": "2021-06-09 14:55:31",
+        "Cost": "50",
+        "Latitude": "-1.3050952117184205",
+        "Longitude": "36.8122775509262"
+      },
+      {
+        "id": 485,
+        "RouteId": 7,
+        "Name": "ROYAL GARDENS",
+        "created_at": "2021-06-09 14:55:34",
+        "updated_at": "2021-06-09 14:59:04",
+        "Cost": "50",
+        "Latitude": "-1.3048352601460447",
+        "Longitude": "36.81752581481931"
+      },
+      {
+        "id": 486,
+        "RouteId": 7,
+        "Name": "KIAMBERE FLATS",
+        "created_at": "2021-06-09 14:59:15",
+        "updated_at": "2021-06-09 15:01:02",
+        "Cost": "50",
+        "Latitude": "-1.3038386302837337",
+        "Longitude": "36.819448188499436"
+      },
+      {
+        "id": 488,
+        "RouteId": 7,
+        "Name": "YAYA BROOKS",
+        "created_at": "2021-06-10 12:13:10",
+        "updated_at": "2021-06-10 12:15:01",
+        "Cost": "50",
+        "Latitude": "-1.2951758782852532",
+        "Longitude": "36.78360361104507"
+      },
+      {
+        "id": 489,
+        "RouteId": 7,
+        "Name": "MONARCH HOTEL",
+        "created_at": "2021-06-10 12:17:40",
+        "updated_at": "2021-06-10 12:18:19",
+        "Cost": "50",
+        "Latitude": "-1.2963083521805197",
+        "Longitude": "36.79519237790984"
+      },
+      {
+        "id": 490,
+        "RouteId": 7,
+        "Name": "NYERI CLOSE APT",
+        "created_at": "2021-06-10 12:20:39",
+        "updated_at": "2021-06-10 12:21:20",
+        "Cost": "50",
+        "Latitude": "-1.2838533438754811",
+        "Longitude": "36.77876044662704"
+      },
+      {
+        "id": 492,
+        "RouteId": 7,
+        "Name": "New Station",
+        "created_at": "2021-06-10 12:47:52",
+        "updated_at": "2021-06-10 12:47:52",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 493,
+        "RouteId": 7,
+        "Name": "KING SHERWOOD",
+        "created_at": "2021-06-10 12:47:54",
+        "updated_at": "2021-06-10 12:48:54",
+        "Cost": "50",
+        "Latitude": "-1.2965539782677489",
+        "Longitude": "36.766474595700835"
+      },
+      {
+        "id": 494,
+        "RouteId": 7,
+        "Name": "HARLEQUIN COURT",
+        "created_at": "2021-06-10 12:51:06",
+        "updated_at": "2021-06-10 12:51:48",
+        "Cost": "50",
+        "Latitude": "-1.3023956999999848",
+        "Longitude": "36.772290375463086"
+      },
+      {
+        "id": 495,
+        "RouteId": 7,
+        "Name": "GARDEN TERRACE",
+        "created_at": "2021-06-10 12:52:47",
+        "updated_at": "2021-06-10 12:54:43",
+        "Cost": "50",
+        "Latitude": "-1.3016657815168777",
+        "Longitude": "36.79062828650815"
+      },
+      {
+        "id": 496,
+        "RouteId": 7,
+        "Name": "MATUMBATO FLATS",
+        "created_at": "2021-06-10 12:55:52",
+        "updated_at": "2021-06-10 12:57:01",
+        "Cost": "50",
+        "Latitude": "-1.3033392369698396",
+        "Longitude": "36.817696084655786"
+      },
+      {
+        "id": 497,
+        "RouteId": 7,
+        "Name": "CANAAN APARTMENTS",
+        "created_at": "2021-06-10 13:00:31",
+        "updated_at": "2021-06-10 13:01:59",
+        "Cost": "50",
+        "Latitude": "-1.304024280627633",
+        "Longitude": "36.817300688360596"
+      },
+      {
+        "id": 498,
+        "RouteId": 7,
+        "Name": "ELGON APARTMENTS",
+        "created_at": "2021-06-10 13:08:36",
+        "updated_at": "2021-06-10 13:09:12",
+        "Cost": "50",
+        "Latitude": "-1.302373973935564",
+        "Longitude": "36.81406972698363"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "Name": "ROUTE E",
+    "Cost": "",
+    "created_at": null,
+    "updated_at": null,
+    "stations": [
+      {
+        "id": 58,
+        "RouteId": 8,
+        "Name": "AIRPORT VIEW",
+        "created_at": null,
+        "updated_at": "2020-03-10 13:54:25",
+        "Cost": 110,
+        "Latitude": "-1.3174615570063994",
+        "Longitude": "36.80935638095092"
+      },
+      {
+        "id": 59,
+        "RouteId": 8,
+        "Name": "HIGHRISE",
+        "created_at": null,
+        "updated_at": "2020-03-10 13:57:30",
+        "Cost": 110,
+        "Latitude": "-1.3142285296115213",
+        "Longitude": "36.8065886343933"
+      },
+      {
+        "id": 60,
+        "RouteId": 8,
+        "Name": "KENYATTA N.H",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 61,
+        "RouteId": 8,
+        "Name": "KABARNET GARDENS",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 62,
+        "RouteId": 8,
+        "Name": "AYANY",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 63,
+        "RouteId": 8,
+        "Name": "AKILLA 2",
+        "created_at": null,
+        "updated_at": "2020-03-10 13:58:23",
+        "Cost": 110,
+        "Latitude": "-1.3123222617183954",
+        "Longitude": "36.80778267116392"
+      },
+      {
+        "id": 64,
+        "RouteId": 8,
+        "Name": "NGUMO CENTRAL",
+        "created_at": null,
+        "updated_at": "2021-06-08 14:26:50",
+        "Cost": 110,
+        "Latitude": "-1.3092927396529086",
+        "Longitude": "36.79897470845949"
+      },
+      {
+        "id": 65,
+        "RouteId": 8,
+        "Name": "SUNVIEW ESTATE",
+        "created_at": null,
+        "updated_at": "2020-03-10 14:00:19",
+        "Cost": 110,
+        "Latitude": "-1.3053992899927425",
+        "Longitude": "36.80170211163939"
+      },
+      {
+        "id": 66,
+        "RouteId": 8,
+        "Name": "UPPERHILL",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 290,
+        "RouteId": 8,
+        "Name": "MAGIWA - NGUMO",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2021-06-08 14:52:44",
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 306,
+        "RouteId": 8,
+        "Name": "KARIOKOR - TRANSIT ROUTE",
+        "created_at": "2020-02-05 11:50:29",
+        "updated_at": "2020-02-05 11:50:46",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 309,
+        "RouteId": 8,
+        "Name": "BLUE SKY",
+        "created_at": "2020-02-14 13:43:43",
+        "updated_at": "2020-02-14 13:43:55",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 355,
+        "RouteId": 8,
+        "Name": "GOLF COURSE PH 1",
+        "created_at": "2020-03-10 13:41:07",
+        "updated_at": "2020-03-10 13:52:42",
+        "Cost": "50",
+        "Latitude": "-1.3054588806674112",
+        "Longitude": "36.800420577909854"
+      },
+      {
+        "id": 356,
+        "RouteId": 8,
+        "Name": "MAGIWA",
+        "created_at": "2020-03-10 14:00:39",
+        "updated_at": "2020-03-10 14:01:32",
+        "Cost": "50",
+        "Latitude": "-1.313941952030095",
+        "Longitude": "36.80224657301633"
+      },
+      {
+        "id": 357,
+        "RouteId": 8,
+        "Name": "NGUMO NERA",
+        "created_at": "2020-03-10 14:01:59",
+        "updated_at": "2020-03-10 14:18:15",
+        "Cost": "50",
+        "Latitude": "-1.306886188263199",
+        "Longitude": "36.79914193558196"
+      },
+      {
+        "id": 358,
+        "RouteId": 8,
+        "Name": "NGUMO NEWA",
+        "created_at": "2020-03-10 14:02:13",
+        "updated_at": "2020-03-10 14:03:19",
+        "Cost": "50",
+        "Latitude": "-1.3079594807367978",
+        "Longitude": "36.799690393254075"
+      },
+      {
+        "id": 359,
+        "RouteId": 8,
+        "Name": "MUTOMO ROAD",
+        "created_at": "2020-03-10 14:05:37",
+        "updated_at": "2021-06-08 14:19:35",
+        "Cost": "50",
+        "Latitude": "-1.3045442999999795",
+        "Longitude": "36.801077963754295"
+      },
+      {
+        "id": 360,
+        "RouteId": 8,
+        "Name": "KEMRI HIGHRISE",
+        "created_at": "2020-03-10 14:09:02",
+        "updated_at": "2021-06-09 13:24:32",
+        "Cost": "50",
+        "Latitude": "-1.3135146168370513",
+        "Longitude": "36.80836556455687"
+      },
+      {
+        "id": 361,
+        "RouteId": 8,
+        "Name": "HIGH VIEW PH 1",
+        "created_at": "2020-03-10 14:13:18",
+        "updated_at": "2020-03-10 14:15:19",
+        "Cost": "50",
+        "Latitude": "-1.3039862042307502",
+        "Longitude": "36.80785207123337"
+      },
+      {
+        "id": 362,
+        "RouteId": 8,
+        "Name": "KEMRI MAIN",
+        "created_at": "2020-03-10 14:21:53",
+        "updated_at": "2020-03-10 14:22:40",
+        "Cost": "50",
+        "Latitude": "-1.3039325739421948",
+        "Longitude": "36.80743632883606"
+      },
+      {
+        "id": 447,
+        "RouteId": 8,
+        "Name": "TEMPORARY",
+        "created_at": "2021-05-28 15:56:18",
+        "updated_at": "2021-05-28 15:56:24",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 452,
+        "RouteId": 8,
+        "Name": "BAGAMOYO",
+        "created_at": "2021-05-31 14:39:35",
+        "updated_at": "2021-06-08 14:35:44",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 455,
+        "RouteId": 8,
+        "Name": "GOLF COURSE 2",
+        "created_at": "2021-06-08 14:35:04",
+        "updated_at": "2021-06-08 14:35:25",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 456,
+        "RouteId": 8,
+        "Name": "LOGINYE ROAD",
+        "created_at": "2021-06-08 14:43:27",
+        "updated_at": "2021-06-08 14:50:11",
+        "Cost": "50",
+        "Latitude": "-1.3043528359161067",
+        "Longitude": "36.800047995492534"
+      },
+      {
+        "id": 465,
+        "RouteId": 8,
+        "Name": "SOHAIL",
+        "created_at": "2021-06-09 12:59:10",
+        "updated_at": "2021-06-09 13:27:11",
+        "Cost": "50",
+        "Latitude": "-1.294021134087725",
+        "Longitude": "36.78745772275389"
+      },
+      {
+        "id": 491,
+        "RouteId": 8,
+        "Name": "HIGH VIEW PH2",
+        "created_at": "2021-06-10 12:24:45",
+        "updated_at": "2021-06-10 12:26:36",
+        "Cost": "50",
+        "Latitude": "-1.3137678560670598",
+        "Longitude": "36.801963020376604"
+      },
+      {
+        "id": 499,
+        "RouteId": 8,
+        "Name": "EBONY APARTMENTS",
+        "created_at": "2021-06-10 13:11:43",
+        "updated_at": "2021-06-10 13:14:20",
+        "Cost": "50",
+        "Latitude": "-1.3005443673255643",
+        "Longitude": "36.78503412023773"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "Name": "ROUTE H",
+    "Cost": "",
+    "created_at": null,
+    "updated_at": null,
+    "stations": [
+      {
+        "id": 76,
+        "RouteId": 9,
+        "Name": "JOAKIM",
+        "created_at": null,
+        "updated_at": "2020-03-09 13:28:26",
+        "Cost": 110,
+        "Latitude": "-1.3222464996412049",
+        "Longitude": "36.84622940859833"
+      },
+      {
+        "id": 111,
+        "RouteId": 9,
+        "Name": "BANQUE VILLAS",
+        "created_at": "2019-09-26 14:34:32",
+        "updated_at": "2020-03-09 13:28:57",
+        "Cost": "50",
+        "Latitude": "-1.3206851921136251",
+        "Longitude": "36.85459930185242"
+      },
+      {
+        "id": 112,
+        "RouteId": 9,
+        "Name": "JOY PARK",
+        "created_at": "2019-09-26 14:36:33",
+        "updated_at": "2020-03-09 13:29:32",
+        "Cost": "50",
+        "Latitude": "-1.3204801220396098",
+        "Longitude": "36.84584622883605"
+      },
+      {
+        "id": 113,
+        "RouteId": 9,
+        "Name": "PARKSIDE VILLAS",
+        "created_at": "2019-09-26 14:37:05",
+        "updated_at": "2020-03-09 13:30:01",
+        "Cost": "50",
+        "Latitude": "-1.320536770067479",
+        "Longitude": "36.84753671534423"
+      },
+      {
+        "id": 114,
+        "RouteId": 9,
+        "Name": "DIAMOND PARK 1",
+        "created_at": "2019-09-26 14:37:06",
+        "updated_at": "2020-03-09 13:30:39",
+        "Cost": "50",
+        "Latitude": "-1.3196723440587368",
+        "Longitude": "36.85126660000001"
+      },
+      {
+        "id": 115,
+        "RouteId": 9,
+        "Name": "EXECUTIVE",
+        "created_at": "2019-09-26 14:37:38",
+        "updated_at": "2020-03-09 13:32:40",
+        "Cost": "50",
+        "Latitude": "-1.3210157255895576",
+        "Longitude": "36.853860364418054"
+      },
+      {
+        "id": 116,
+        "RouteId": 9,
+        "Name": "KEVEVAPI",
+        "created_at": "2019-09-26 14:38:29",
+        "updated_at": "2020-03-10 14:33:03",
+        "Cost": "50",
+        "Latitude": "-1.3219693700983945",
+        "Longitude": "36.856971571163925"
+      },
+      {
+        "id": 117,
+        "RouteId": 9,
+        "Name": "BALOZI 1",
+        "created_at": "2019-09-26 14:39:15",
+        "updated_at": "2020-03-09 13:33:35",
+        "Cost": "50",
+        "Latitude": "-1.319964040111379",
+        "Longitude": "36.847026276178454"
+      },
+      {
+        "id": 118,
+        "RouteId": 9,
+        "Name": "DIAMOND PARK 2",
+        "created_at": "2019-09-26 14:41:16",
+        "updated_at": "2020-03-09 13:34:21",
+        "Cost": "50",
+        "Latitude": "-1.3198645370052375",
+        "Longitude": "36.85274633743439"
+      },
+      {
+        "id": 119,
+        "RouteId": 9,
+        "Name": "HELMOND HEIGHTS",
+        "created_at": "2019-09-26 14:42:08",
+        "updated_at": "2020-03-09 13:35:43",
+        "Cost": "50",
+        "Latitude": "-1.3211022292000072",
+        "Longitude": "36.84463387036132"
+      },
+      {
+        "id": 120,
+        "RouteId": 9,
+        "Name": "BALOZI 2",
+        "created_at": "2019-09-26 14:42:08",
+        "updated_at": "2020-03-09 13:36:04",
+        "Cost": "50",
+        "Latitude": "-1.3199533141222535",
+        "Longitude": "36.84705846137696"
+      },
+      {
+        "id": 121,
+        "RouteId": 9,
+        "Name": "AKIBA BALOZI",
+        "created_at": "2019-09-26 14:44:18",
+        "updated_at": "2019-09-26 14:45:38",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 122,
+        "RouteId": 9,
+        "Name": "KOKAN ESTATE",
+        "created_at": "2019-09-26 14:45:42",
+        "updated_at": "2019-09-26 14:46:50",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 123,
+        "RouteId": 9,
+        "Name": "FAVOR APARTMENT",
+        "created_at": "2019-09-27 14:26:44",
+        "updated_at": "2020-03-09 13:37:30",
+        "Cost": "50",
+        "Latitude": "-1.321070051247261",
+        "Longitude": "36.845551185844414"
+      },
+      {
+        "id": 271,
+        "RouteId": 9,
+        "Name": "BALOZI\/JOAKIM",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-01-31 16:04:06",
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 273,
+        "RouteId": 9,
+        "Name": "BANQUE VILLA",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-01-31 16:04:06",
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 278,
+        "RouteId": 9,
+        "Name": "DIAMOND PARK 1, 2",
+        "created_at": "2020-01-31 16:04:06",
+        "updated_at": "2020-01-31 16:04:06",
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 343,
+        "RouteId": 9,
+        "Name": "KALSAN",
+        "created_at": "2020-03-09 13:05:21",
+        "updated_at": "2020-03-09 13:39:03",
+        "Cost": "50",
+        "Latitude": "-1.3185277250625362",
+        "Longitude": "36.85313206931151"
+      },
+      {
+        "id": 410,
+        "RouteId": 9,
+        "Name": "ALMOMD HEIGHTS",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 416,
+        "RouteId": 9,
+        "Name": "RANDYS",
+        "created_at": "2021-05-20 12:50:49",
+        "updated_at": "2021-05-20 12:51:08",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 417,
+        "RouteId": 9,
+        "Name": "KARI",
+        "created_at": "2021-05-20 13:05:24",
+        "updated_at": "2021-05-20 13:05:36",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 448,
+        "RouteId": 9,
+        "Name": "TEMPORARY",
+        "created_at": "2021-05-28 15:56:31",
+        "updated_at": "2021-05-28 15:56:38",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "Name": "Test Route",
+    "Cost": "100",
+    "created_at": "2020-01-22 19:19:15",
+    "updated_at": "2021-05-28 12:58:28",
+    "stations": [
+      {
+        "id": 251,
+        "RouteId": 16,
+        "Name": "Zambia Test Station",
+        "created_at": "2020-01-22 19:20:29",
+        "updated_at": "2020-01-22 19:21:53",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 252,
+        "RouteId": 16,
+        "Name": "Kibiko Test Station",
+        "created_at": "2020-01-22 19:20:52",
+        "updated_at": "2020-01-22 19:21:41",
+        "Cost": "70",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 253,
+        "RouteId": 16,
+        "Name": "Matasia Test Station",
+        "created_at": "2020-01-22 19:21:07",
+        "updated_at": "2020-01-22 19:21:28",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      },
+      {
+        "id": 401,
+        "RouteId": 16,
+        "Name": "MARIAKANI\/KARI",
+        "created_at": null,
+        "updated_at": null,
+        "Cost": 110,
+        "Latitude": null,
+        "Longitude": null
+      },
+      {
+        "id": 449,
+        "RouteId": 16,
+        "Name": "TEMPORARY",
+        "created_at": "2021-05-28 15:56:45",
+        "updated_at": "2021-05-28 15:56:54",
+        "Cost": "50",
+        "Latitude": "-1.2921",
+        "Longitude": "36.8219"
+      }
+    ]
+  }
+]
